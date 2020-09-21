@@ -86,7 +86,17 @@ class HomeSplash extends React.Component {
             content: "​​",
             image: `https://ktern.com/img/index/banner.svg`,
             imageAlign: "right",
-            title: `Automate and govern your SAP S/4HANA Digital Transformation with KTern.AI <p> <a style = "width: 140px; height: 30px;
+            title: ` <h1> Automate and govern your SAP S/4HANA Digital Transformation with KTern.AI </h1> <br> <p> 
+            <a style = "width: 140px; height: 30px;
+            background-color: #9d0102; /* Green */
+            border: none;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 12px;" href = "https://demo.ktern.com">Try it now</a> <a style = "width: 140px; height: 30px;
             background-color: #9d0102; /* Green */
             border: none;
             color: white;
