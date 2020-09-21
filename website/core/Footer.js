@@ -53,13 +53,13 @@ class Footer extends React.Component {
         </section>
 
         <a
-          href='https://opensource.facebook.com/'
+          href='https://www.sapappcenter.com/en/product/display-0000059068_live_v1/KTern.AI%20for%20SAP%20Digital%20Transformation%20Workplace'
           target='_blank'
           rel='noreferrer noopener'
           className='fbOpenSource'
         >
           <img
-            src={`${this.props.config.baseUrl}img/sapqualified.svg`}
+            src={`${this.props.config.baseUrl}img/appcenter.svg`}
             alt=''
             width='170'
             height='45'
