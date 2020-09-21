@@ -59,7 +59,7 @@ class Footer extends React.Component {
           className='fbOpenSource'
         >
           <img
-            src={`${this.props.config.baseUrl}img/appcenter.svg`}
+            src={`${this.props.config.baseUrl}img/appcenter.png`}
             alt=''
             width='170'
             height='45'

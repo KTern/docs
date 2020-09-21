@@ -26,8 +26,7 @@ SAP Activate is a next generation Agile methodology recommended and adopted by t
   - An accelerator is a document, template, or a web-link that helps a consultant, a customer, or the PM perform the task and complete the work faster or with less effort.
 
 - ### Workstream
-      -   A workstream is a collection of related deliverables that show time relationships within a project and among other streams. Streams can span phases and are not necessarily dependent on phase starts and end.
-  <br>
+  - A workstream is a collection of related deliverables that show time relationships within a project and among other streams. Streams can span phases and are not necessarily dependent on phase starts and end.
 
 ### Deliverables
 

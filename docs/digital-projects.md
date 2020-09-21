@@ -4,7 +4,7 @@ title: Digital Projects
 sidebar_label: Digital Projects
 ---
 
-### - Overview
+### Overview
 
 Digital Projects automation = SAP Activate bot + Cutover orchestrator + Workflow wizard + Collaboration forum + Audit bots + Smart dashboards
 <br>
@@ -38,19 +38,17 @@ Project Management, Solution Adoption, Application Design and Configuration, Dat
 
 - #### Smart Control Center
   - The Project Control Center includes setting up of the project and the project team, desired Project Plan, Scope Section, Communication Plan setup and the Project Organization. <br>
-    <ol>-> Smart Control Center
-    -> Intelligent risk management
-    -> Intelligent communication matrix
-    -> Organization structure auto-formulator
-    </ol>
+    - Smart Control Center
+    - Intelligent risk management
+    - Intelligent communication matrix
+    - Organization structure auto-formulator
 - #### Project Simulation Studio
 
   - Project timeline is controlled and can be simulated using the timeline wizard that allows complete tracking of the interdependent tasks while taking control of the project activities. The Simulation helps in better insights on the overall progress of the project. <br>
-    <ol>-> Project auto-simulation planner
-    -> Plan auto-version management
-    -> E-workers for work item workflows
-    -> Milestone auto-tracker
-    </ol>
+    - Project auto-simulation planner
+    - Plan auto-version management
+    - E-workers for work item workflows
+    - Milestone auto-tracker
 
 - #### User Engine
 
@@ -62,56 +60,50 @@ Project Management, Solution Adoption, Application Design and Configuration, Dat
 - #### Intelligent Task wizard
 
   - The task wizard provides a deeper insight for every single task. It helps keep track of all the attributes of the activity in a digitized way. It comes with the header information, Discussions, History Tracking, File Management for the activity, Wiki / Notes, Linked Activities. <br>
-    <ol> -> Intelligent task knowledge base
-    -> Automata launchpad
-    -> Document management
-    -> Task history auto-tracker
-    </ol>
+    -Intelligent task knowledge base
+    - Automata launchpad
+    - Document management
+    - Task history auto-tracker
 
 - #### Intelligent Issue Wizard
 
   - The issue wizard provides a deeper insight for every single issue/defect <br>
-    <ol> -> Intelligent issue knowledge base
-    -> Defects auto-handling
-    -> Document management
-    -> Issue history auto-tracker
-    </ol>
+    - Intelligent issue knowledge base
+    - Defects auto-handling
+    - Document management
+    - Issue history auto-tracker
 
 - #### Document Repository
 
   - Housekeeping of project files generated is done by KTern, where the files are kept in sync with the project activities <br>
-    <ol> -> Auto-organized document repo
-    -> Work item files auto-manager
-    -> Meeting files auto-manager
-    -> Charter files auto-manager
-    </ol>
+    - Auto-organized document repo
+    - Work item files auto-manager
+    - Meeting files auto-manager
+    - Charter files auto-manager
 
 - #### Enterprise Forum
 
   - The Collaboration Engine of KTern helps in bringing together the Business SMEs, Project consultants and the Governance Team. It provides a unified space for the project team to discuss on activities and record action points and discussions <br>
-    <ol> -> Global discussion forum
-    -> Work item conversations
-    -> Auto announcements and posts
-    -> Automata collaboration
-    </ol>
+    - Global discussion forum
+    - Work item conversations
+    - Auto announcements and posts
+    - Automata collaboration
 
 - #### Dashboards and Reports
 
   - The Dashboard and Reports of KTern help in Governance and Management of activities with timely insights and tracking of activities in the project, overdue alerts, resource utilization and work-item trackers. The reports allow the users to query in a specific filter and get results and insights out of it. <br>
-    <ol> -> 25+ KPIs based dashboard and workspace
-    -> Automated charter, test, meeting reports
-    -> Resource utilization tracker
-    -> Overdue alerts and risk insights
-    </ol>
+    - 25+ KPIs based dashboard and workspace
+    - Automated charter, test, meeting reports
+    - Resource utilization tracker
+    - Overdue alerts and risk insights
 
 - #### Go-Live wizard
 
   - The timely phase closures and the multi-level approvals can be handled using the go-live wizard. It allows the project team to include activities, issues or testcases as part of the phase sign-off or a deliverable sign-off, thus enabling both the customer and the system integrator to have clear visibility on the sign off acceptance and closures. <br>
-    <ol> -> Sign-off approval auto-orchestrator
-    -> Sign-off stakeholders management
-    -> Compliance checks
-    -> Q-gate validation and phase closures
-    </ol>
+    - Sign-off approval auto-orchestrator
+    - Sign-off stakeholders management
+    - Compliance checks
+    - Q-gate validation and phase closures
 
 - #### Integrations
   - Integrated with Digital Labs for tracking SAP test activities
@@ -131,5 +123,5 @@ Project Management, Solution Adoption, Application Design and Configuration, Dat
 
 ### Case Studies
 
-1. [A comprehensive SAP S/4HANA Readiness Assessment for a leading provider of technologically advanced solutions using KTern](https://ktern.com/content-repository/case-study/comprehensive-sap-s4-hana-readiness-assessment-tech-advance-solution)
-2. [SAP S/4HANA System Conversion using KTern: A Case Study](https://ktern.com/article/sap-s4-hana-system-conversion-ktern-elm)
+1. <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/content-repository/case-study/comprehensive-sap-s4-hana-readiness-assessment-tech-advance-solution">A comprehensive SAP S/4HANA Readiness Assessment for a leading provider of technologically advanced solutions using KTern</a></b>
+2. <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/sap-s4-hana-system-conversion-ktern-elm">SAP S/4HANA System Conversion using KTern: A Case Study</a></b>

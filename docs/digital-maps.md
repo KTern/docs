@@ -8,7 +8,7 @@ sidebar_label: Digital Maps
 
 KTern Digital Maps automation = SAP Assessment bots + Fit-gap wizards + Process maps + Project maps + Risk predictor + TCO estimator + Digital Transformation roadmap simulator
 
-For a detailed description of Digital Maps, go through this article - [Everything you need to know about KTern's Digital Maps](https://ktern.com/article/everything-about-sap-s4hana-assessment-ktern)
+For a detailed description of Digital Maps, go through this article - <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/everything-about-sap-s4hana-assessment-ktern">Everything you need to know about KTern's Digital Maps</a></b>
 <br>
 
 ### Streamlined SAP Activate Workstreams
@@ -37,12 +37,12 @@ Application Design and Configuration, Data Management, Analytics, Technical Arch
 
 - #### Business Process Assessment
 
-  - Value, volume, velocity, and impact-based assessment of the business process with [change management insights](https://ktern.com/article/handle-sap-s4-hana-change-management-training-scenario-recommendations). KTern identifies the business processes that are used extensively in the existing system, thereby determining the complexity of the S/4HANA transition
+  - Value, volume, velocity, and impact-based assessment of the business process with <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/handle-sap-s4-hana-change-management-training-scenario-recommendations">change management insights</a></b>. KTern identifies the business processes that are used extensively in the existing system, thereby determining the complexity of the S/4HANA transition
 
 - #### Custom Process Assessment
 
   - Custom objects analysis with a parallel on the custom objects to scope item adaptation and auto-remediation scenario recommendations. KTern analyses all the custom objects present in an existing system and provides a detailed categorization on the custom object types.
-  - Read more on [custom object analysis here](https://ktern.com/article/analyze-custom-objects-right-way-using-ktern)
+  - Read more on <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/analyze-custom-objects-right-way-using-ktern">custom object analysis here</a></b>
 
 - #### Landscape Assessment
   - Interface based impact evaluation, testing impact and cases identification and sizing advisory for the transition to S/4HANA. It includes the following:
@@ -67,7 +67,7 @@ Application Design and Configuration, Data Management, Analytics, Technical Arch
 
 - #### Roadmap Simulator
   - Derivation of roadmap and effort for ERP transformation with TCO estimator, risk predictor and resolution insights from inbuilt engine S4HANAPEDIA.AI
-  - Detailed description of [Roadmap Simulator](https://ktern.com/article/automated-roadmap-generation-s4-hana-system-conversion)
+  - Detailed description of <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/automated-roadmap-generation-s4-hana-system-conversion">Roadmap Simulator</a></b>
 
 <center>
 <img src = "https://storage.googleapis.com/ktern-public-files/product-documentation/roadmap.png">
@@ -83,6 +83,6 @@ Application Design and Configuration, Data Management, Analytics, Technical Arch
 
 ### Case Studies
 
-1. [SAP S/4HANA Readiness Assessment for an E-Services Provider in Saudi Arabia](https://ktern.com/content-repository/case-study/sap-s4hana-readiness-assessment-eservices-saudi-arabia)
-2. [SAP S/4HANA System Assessment using KTern](SAP%20S/4HANA%20System%20Assessment%20using%20KTern)
-3. [A comprehensive SAP S/4HANA Readiness Assessment for a leading provider of technologically advanced solutions using KTern](https://ktern.com/content-repository/case-study/comprehensive-sap-s4-hana-readiness-assessment-tech-advance-solution)
+1. <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/content-repository/case-study/sap-s4hana-readiness-assessment-eservices-saudi-arabia">SAP S/4HANA Readiness Assessment for an E-Services Provider in Saudi Arabia</a></b>
+2. <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/content-repository/case-study/sap-s4-hana-assessment-ktern-asm">SAP S/4HANA System Assessment using KTern</a></b>
+3. <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/content-repository/case-study/comprehensive-sap-s4-hana-readiness-assessment-tech-advance-solution">A comprehensive SAP S/4HANA Readiness Assessment for a leading provider of technologically advanced solutions using KTern</a></b>

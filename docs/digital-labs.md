@@ -9,7 +9,7 @@ sidebar_label: Digital Labs
 Digital Labs automation = SAP test case finder + Business bots + Test run orchestrator + Scheduler cockpit + Business test catalogue + Defect wizards + Intelligent reports
 <br>
 
-For a deatiled description on Digital Labs, read this article - [SAP S/4HANA Testing using KTern's Digital Labs](https://ktern.com/article/sap-s4-hana-testing-using-ktern-digital-labs-beginner-guide)
+For a deatiled description on Digital Labs, read this article - <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/sap-s4-hana-testing-using-ktern-digital-labs-beginner-guide">SAP S/4HANA Testing using KTern's Digital Labs</a></b>
 <br>
 
 ### Streamlined SAP Activate Workstreams
@@ -36,11 +36,10 @@ Testing, Data Management
 
   - S/4HANA transition and business specific aligned value, volume, velocity & impact based automated testing recommendations
   - The VVV Scoring Dashboard covers the Value, Velocity, and Volume Analysis of the business per transaction usage. There could be ‘n’ number of business processes in a system. This dashboard identifies the critical business processes and prioritizes the test cases which must be tested based on the following factors:
-    <ol> -> **Value** - This score denotes the merit and significance of the transactional execution for the business scenario.
-    -> **Volume** - This score denotes the magnitude of the data and documents obtained from the transactional execution of the business scenario.
-    -> **Velocity** - This score denotes the frequency of the transactional execution for the corresponding business scenario.
-    </ol>
-  - Read more on [Test Case Auto-Recommendations here](https://ktern.com/article/what-need-to-know-sap-testing-recommendations-by-ktern)
+    - **Value** - This score denotes the merit and significance of the transactional execution for the business scenario.
+    - **Volume** - This score denotes the magnitude of the data and documents obtained from the transactional execution of the business scenario.
+    - **Velocity** - This score denotes the frequency of the transactional execution for the corresponding business scenario.
+  - Read more on <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/what-need-to-know-sap-testing-recommendations-by-ktern">Test Case Auto-Recommendations here</a></b>
 
 - #### Test Catalogue
   - Single Source of Truth for Test Case Repository with Test Plan, Scenario and Case Information in the complete SAP digital transformation journey.
@@ -49,7 +48,7 @@ Testing, Data Management
 
   - Industry specific, SAP focused business testing built on RPA 2.0 technology with autonomous Business API bots and Business UI bots
   - Preparation – Automated test case recommendations with data variants
-  - [Automated test execution](https://ktern.com/article/how-auto-execute-test-cases-using-ktern) based on pre-generated test datasets
+  - <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/how-auto-execute-test-cases-using-ktern">Automated test execution</a></b> based on pre-generated test datasets
   - Automated capturing of test logs and defects
   - Automated test documentation and management in test repository
 
@@ -71,7 +70,7 @@ Testing, Data Management
 
 - #### Mass test execution
 
-  - Large data volume handling with mass [test case execution](https://ktern.com/article/how-auto-execute-test-cases-using-ktern) for all types of test plans, scenarios, and cases through test orchestrator
+  - Large data volume handling with mass <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/how-auto-execute-test-cases-using-ktern">test case execution</a></b> for all types of test plans, scenarios, and cases through test orchestrator
 
 - #### Test Sign-off Wizard
   - Testing stakeholders sign-off orchestration, compliance and collaboration between SI and customer
@@ -95,15 +94,15 @@ Testing, Data Management
 
 - #### Dashboard
 
-  - [Transparency and control over test execution](https://ktern.com/article/manage-complete-sap-testing-from-one-place-using-ktern) with resource utilization tracker and defects monitoring
+  - <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/manage-complete-sap-testing-from-one-place-using-ktern">Transparency and control over test execution</a></b> with resource utilization tracker and defects monitoring
 
 - #### Seamless UI/UX Integration
 
   - User friendly app interface and experience with seamless integration of other automation components in KTern
 
 - #### SAP Testing Lifecycle
-      - Continuous testing for SAP product upgrades designed specifically for rapid, disciplined testing in SAP digital transformation journey
-  <br>
+  - Continuous testing for SAP product upgrades designed specifically for rapid, disciplined testing in SAP digital transformation journey
+    <br>
 
 ### Innovations and Benefits for ERP Transformation
 
@@ -117,4 +116,4 @@ Testing, Data Management
 
 ### Case Studies
 
-1. [SAP S/4HANA System Conversion using KTern: A Case Study](https://ktern.com/article/sap-s4-hana-system-conversion-ktern-elm)
+1. <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/sap-s4-hana-system-conversion-ktern-elm">SAP S/4HANA System Conversion using KTern: A Case Study</a></b>

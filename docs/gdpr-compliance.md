@@ -6,7 +6,7 @@ sidebar_label: GDPR Compliance
 
 ### Background of GDPR
 
-In May 2016, [the European Union](https://europa.eu/european-union/index_en) adopted a new regulation on data protection, the [“General Data Protection Regulation”](https://eugdpr.org/), or GDPR. GDPR introduces a comprehensive data protection regime and increases the compliance requirements for organizations that use personal data of EU data subjects, whether the organization acts as a controller or processor of data.
+In May 2016, <b><a target="_blank" style = "color: #9d0102" href="https://europa.eu/european-union/index_en/">the European Union</a></b> adopted a new regulation on data protection, the <b><a target="_blank" style = "color: #9d0102" href="https://eugdpr.org/">“General Data Protection Regulation”</a></b>, or GDPR. GDPR introduces a comprehensive data protection regime and increases the compliance requirements for organizations that use personal data of EU data subjects, whether the organization acts as a controller or processor of data.
 <br>
 
 ### KTern compliance with GDPR

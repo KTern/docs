@@ -54,8 +54,7 @@ Data Management
   - Integration of the process scope items with SAP Activate aligned project work items and unified component platform
 
 - #### Process and CXEX optimizer
-      -  Business process enrichment suggestions with automated optimization bots for running streamlined operations with improved customer and employee experience
-  <br>
+  - Business process enrichment suggestions with automated optimization bots for running streamlined operations with improved customer and employee experience
 
 ### Innovations and Benefits for ERP Transformation
 

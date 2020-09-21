@@ -4,7 +4,7 @@ title: Terms of Service
 sidebar_label: Terms of Service
 ---
 
-Please read these terms of service and Our [Privacy Notice](https://ktern.com/privacy-policy) (together, these “Terms”) carefully as they form a contract between You and Us and govern use of and access to the Service(s) and Websites by You, Your Affiliates, Users and End-Users. In the event of a conflict between these terms of service and Our Privacy Notice, these terms of service shall prevail.
+Please read these terms of service and Our <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/privacy-policy/">Privacy Notice</a></b> (together, these “Terms”) carefully as they form a contract between You and Us and govern use of and access to the Service(s) and Websites by You, Your Affiliates, Users and End-Users. In the event of a conflict between these terms of service and Our Privacy Notice, these terms of service shall prevail.
 <br>
 
 By accessing or using the Service(s) or Websites, or authorizing or permitting any User or End-User to access or use the Service(s) or Websites, You agree to be bound by these Terms. If You are entering into these Terms on behalf of a company, organization or another legal entity (an “Entity”), You are agreeing to these Terms for that Entity and representing to Us that You have the authority to bind such Entity and its Affiliates to these Terms, in which case the terms, “You", “Your” or related capitalized terms used herein shall refer to such Entity and its Affiliates. If You do not have such authority, or if You do not agree with these Terms, You must not accept these Terms and may not access or use the Service(s) or Websites.
@@ -165,13 +165,10 @@ IN JURISDICTIONS WHICH DO NOT PERMIT THE EXCLUSION OF IMPLIED WARRANTIES OR LIMI
 
 - If use of the Service(s) by You has become, or in Our opinion is likely to become, the subject of any IP Claim (defined below), We may at Our own option and expense
 
-      1.  procure for You the right to continue using the Service(s) as set forth hereunder
-
-  <br>
-      2.  replace or modify the Service(s) to make it non-infringing; or
-  <br>
-      3.  if options (a) or (b) are not commercially and reasonably practicable as determined by Us, terminate Your subscription to the Service(s) and repay You, on a pro-rated basis, any Subscription Charges You have previously paid Us for the corresponding unused portion.
-  <br>
+  1.  Procure for You the right to continue using the Service(s) as set forth hereunder
+  2.  Replace or modify the Service(s) to make it non-infringing; or
+  3.  If options (a) or (b) are not commercially and reasonably practicable as determined by Us, terminate Your subscription to the Service(s) and repay You, on a pro-rated basis, any Subscription Charges You have previously paid Us for the corresponding unused portion.
+      <br>
 
 - **Indemnification by Us:** Subject to Your compliance with these Terms, We will indemnify and hold You harmless, from and against any claim brought against You by a third party alleging that the Service(s) You subscribed to infringes or misappropriates such third party’s valid patent, copyright, or trademark (an “IP Claim”). 1. We shall, at Our expense, defend such IP Claim and pay damages finally awarded against You in connection therewith, including the reasonable fees and expenses of the attorneys, provided that You promptly notify Us of the threat or notice of such IP Claim
   <br> 2. We have or will have the sole and exclusive control and authority to select defense attorneys, defend and/or settle any such IP Claim; and

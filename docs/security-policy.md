@@ -12,12 +12,12 @@ The KTern development center in Chennai is under 24x7 security protection, at bo
 Important documents are stored in cabinets that can only be accessed by pre-authorized individuals. The office is equipped with surveillance cameras and their footage is monitored periodically by authorized individuals. Fire alarms and water sprinklers are in place to detect and mitigate damage in the unlikely event of a fire. A policy has been implemented to approve and regulate visitor access to the building. The office is provided with 24x7 power supply, supported by an alternative uninterrupted power supply system to ensure smooth functioning in the event of power failure.
 <br>
 
-KTern hosts its application and data in industry-leading [Google Cloud Platform](https://cloud.google.com/), whose data centers have been thoroughly tested for security, availability and business continuity. For more details, please read the [GCP Whitepaper](https://cloud.google.com/security/overview/whitepaper), [GCP Trust & Security](https://cloud.google.com/security/) and the [Forrester Report on Data Security Portfolio Vendors](https://cloud.google.com/forrester-data-security-portfolio-security-wave/).
+KTern hosts its application and data in industry-leading <b><a target="_blank" style = "color: #9d0102" href="https://cloud.google.com/">Google Cloud Platform</a></b>, whose data centers have been thoroughly tested for security, availability and business continuity. For more details, please read the <b><a target="_blank" style = "color: #9d0102" href="https://cloud.google.com/security/overview/whitepaper/">GCP Whitepaper</a></b>, <b><a target="_blank" style = "color: #9d0102" href="https://cloud.google.com/security/">GCP Trust & Security</a></b>[]() and the [Forrester Report on Data Security Portfolio Vendors](https://cloud.google.com/forrester-data-security-portfolio-security-wave/).
 <br>
 
 ### Application Security
 
-All KTern products are hosted in [Google Cloud Platform](https://cloud.google.com/). The infrastructure for databases and application servers is managed and maintained by the cloud service provider.
+All KTern products are hosted in <b><a target="_blank" style = "color: #9d0102" href="https://cloud.google.com/">Google Cloud Platform</a></b>. The infrastructure for databases and application servers is managed and maintained by the cloud service provider.
 
 At KTern, we take a multifaceted approach to application security, to ensure everything from engineering to deployment, including architecture and quality assurance processes complies with our highest standards of security.
 <br>
@@ -49,7 +49,7 @@ Deployments to production servers are performed only by trusted and authorized e
 Post-deployment monitoring is done by a dedicated 24x7 Network Operations Center(NOC) team that monitors the application for suspicious activities or attacks. The application is engineered to detect and alert the Network Operations Center(NOC) and Security Operations Center(SOC) team about suspicious activities and abnormal load situations in the infrastructure. An escalation matrix up to two levels of engineers has been defined to address contingencies that might occur.
 <br>
 
-An information security team carries out periodic comprehensive application audits. The tests are performed with the help of static analysis tools and aided by manual analysis. Network penetration tests and other black box tests are performed to help identify security vulnerabilities in the application. The security team stays vigilant about common vulnerabilities and exposures and stays on top of updates to the [US National Vulnerabilities Database](https://nvd.nist.gov/).
+An information security team carries out periodic comprehensive application audits. The tests are performed with the help of static analysis tools and aided by manual analysis. Network penetration tests and other black box tests are performed to help identify security vulnerabilities in the application. The security team stays vigilant about common vulnerabilities and exposures and stays on top of updates to the <b><a target="_blank" style = "color: #9d0102" href="https://nvd.nist.gov/">US National Vulnerabilities Database</a></b>.
 <br>
 
 ### Data Security
@@ -68,7 +68,7 @@ Application logs are maintained, incremental data recovery and consistent, clust
 
 ### Data Deletion
 
-When an account is deleted, all associated data is destroyed within 50 business days. KTern also offer data export options which businesses can use if they want a backup of their data before deletion. For more information regarding data deletion refer to our [Privacy Page](https://www.ktern.com/privacy-policy).
+When an account is deleted, all associated data is destroyed within 50 business days. KTern also offer data export options which businesses can use if they want a backup of their data before deletion. For more information regarding data deletion refer to our <b><a target="_blank" style = "color: #9d0102" href="https://www.ktern.com/privacy-policy/">Privacy Page</a></b>.
 <br>
 
 ### Operational Security
@@ -79,7 +79,7 @@ KTern understands that formal procedures, controls and well-defined responsibili
 Operational security starts right from recruiting an engineer to training and auditing their work products. The recruitment process includes standard background verification checks (including verification of academic records) on all new recruits. All employees are provided with adequate training about the information security policies of the company and are required to sign that they have read and understood the company’s security-related policies. onfidential information about the company is available for access only to select authorized KTern employees.
 <br>
 
-Employees are required to report any observed suspicious activities or threats. The human resources team takes appropriate disciplinary action against employees who violate organizational security policies. Security incidents (breaches and potential vulnerabilities) can be reported by customers through our email: info@ktern.com.
+Employees are required to report any observed suspicious activities or threats. The human resources team takes appropriate disciplinary action against employees who violate organizational security policies. Security incidents (breaches and potential vulnerabilities) can be reported by customers through our email: <b><a target="_blank" style = "color: #9d0102" >info@ktern.com</a></b>.
 <br>
 
 KTern maintains an inventory of all information systems used by employees for development purposes in an internal service desk, aided by automated probing software that assists in tracking changes to these systems and their configurations. Only authorized and licensed software products are installed by employees. No third parties or contractors manage software or information facilities, and no development activity is outsourced. All employee information systems are authorized by the management before they are installed or put to use.
@@ -101,10 +101,10 @@ The NOC and SOC teams monitor the infrastructure 24x7 for stability, intrusions 
 
 ### Regulatory Compliance
 
-All formal processes and security standards at KTern are designed to meet regulations at the industry, state, federal and international levels. KTern adheres to strict data security, access, integrity policies, among other principles defined in the safe harbor framework. We implement the industry standard security, technical, physical and administrative measures against unauthorized processing of such information and against loss, destruction of, or damage to, personal information as more fully described in KTern [Privacy Policy](https://www.ktern.com/privacy-policy).
+All formal processes and security standards at KTern are designed to meet regulations at the industry, state, federal and international levels. KTern adheres to strict data security, access, integrity policies, among other principles defined in the safe harbor framework. We implement the industry standard security, technical, physical and administrative measures against unauthorized processing of such information and against loss, destruction of, or damage to, personal information as more fully described in KTern <b><a target="_blank" style = "color: #9d0102" href="https://www.ktern.com/privacy-policy/">Privacy Page</a></b>.
 <br>
 
-For information regarding our GDPR Compliance refer to this [link](https://ktern.com/gdpr-compliance).
+For information regarding our GDPR Compliance refer to this <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/gdpr-compliance/">link</a></b>.
 
 ### Reporting Issues & Threats
 

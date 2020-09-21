@@ -10,7 +10,7 @@ sidebar_label: Privacy policy
 This Privacy Policy describes how KTern collects and uses any information provided by you in connection with the use of:
 <br>
 
-1.  our website www.KTern.com, and any other website that we may operate (each, together with its sub-domains, content and services, collectively, the “Website”);
+1.  our website <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/">www.ktern.com</a></b>, and any other website that we may operate (each, together with its sub-domains, content and services, collectively, the “Website”);
     <br>
 2.  any services we provide (such services, including without limitation any software-as-a-service, and support or maintenance services, the “Services”);
     <br>
@@ -92,7 +92,7 @@ Depending on local law, you may access, update, or correct your PI that we hold,
 Like most other commercial websites, KTern’s Website may use a standard technology called “cookies” or other tracking technologies to collect information about how you use the website or to present you with information that is customized for you. A cookie is a small data file that certain websites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the website uses to track the pages you’ve visited. – Certain cookies and other technologies may serve to recall PI, such as an IP address, previously indicated by a user.
 <br>
 
-A cookie cannot read data off your hard disk or read cookie files created by other websites. Some parts of our Website use cookies to track user traffic patterns. KTern does this in order to determine the usefulness of our Website information to KTern’s users and to see how effective KTern’s navigational structure is in helping users reach that information. If you prefer not to receive cookies while browsing our Website, you can set your browser to warn you before accepting cookies, and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by configuring your browser in such manner, although you may not be able to take full advantage of KTern’s Website if you do so as certain parts and functions of our Website may not be available. You can learn more about cookies at www.aboutcookies.org and about deleting or blocking cookies, at this [link](https://www.aboutcookies.org/Default.aspx?page=2).
+A cookie cannot read data off your hard disk or read cookie files created by other websites. Some parts of our Website use cookies to track user traffic patterns. KTern does this in order to determine the usefulness of our Website information to KTern’s users and to see how effective KTern’s navigational structure is in helping users reach that information. If you prefer not to receive cookies while browsing our Website, you can set your browser to warn you before accepting cookies, and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by configuring your browser in such manner, although you may not be able to take full advantage of KTern’s Website if you do so as certain parts and functions of our Website may not be available. You can learn more about cookies at <b><a target="_blank" style = "color: #9d0102" href="https://www.aboutcookies.org/Default.aspx?page=2/">www.aboutcookies.org</a></b> and about deleting or blocking cookies, at this <b><a target="_blank" style = "color: #9d0102" href="https://www.aboutcookies.org/Default.aspx?page=2/">link</a></b>.
 <br>
 
 In addition, where applicable, the Website may offer you the choice to opt-in and/or opt out of use of cookies on the Website. Functionality and analytical tags/files do not require your consent. For analytical and other tags/files, however, we request your consent before placing them on your device. You can give your consent by allowing cookies in your browser settings, by continuing to use our Website, or by clicking the appropriate button on the banner displayed, when applicable
@@ -115,12 +115,12 @@ KTern may amend this Privacy Policy from time to time. If there are material cha
 
 ### Questions or Suggestions
 
-If you have questions or concerns about our collection, use, or disclosure of your PI, or if you want to be deleted from our database, or to unsubscribe from receiving all KTern information, please e-mail us at: info@ktern.com.
+If you have questions or concerns about our collection, use, or disclosure of your PI, or if you want to be deleted from our database, or to unsubscribe from receiving all KTern information, please e-mail us at: info@ktern.com<b><a target="_blank" style = "color: #9d0102" >info@ktern.com</a></b>.
 <br>
 
 ### Testimonials
 
-KTern posts customer testimonials, which may contain personally identifiable information, on its Website. KTern obtains the customer’s consent via email prior to posting the testimonial and to post their name along with their testimonial. If you want your testimonial removed please contact us at: info@ktern.com.
+KTern posts customer testimonials, which may contain personally identifiable information, on its Website. KTern obtains the customer’s consent via email prior to posting the testimonial and to post their name along with their testimonial. If you want your testimonial removed please contact us at: <b><a target="_blank" style = "color: #9d0102" >info@ktern.com</a></b>.
 <br>
 
 ### Social media features & Widgets

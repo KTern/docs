@@ -6,6 +6,8 @@ sidebar_label: My workspace
 
 'My Workspace' screen lets the users to view the status of work items created by them, assigned to them and other key insights about their performance in the Project.
 
+<img src = "https://storage.googleapis.com/ktern-public-files/product-documentation/my-workspace.PNG">
+
 As of the latest release, the User can view the seven widgets such as
 
 - Profile Card: Profile card gives the Organizational information of the User.
