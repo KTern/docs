@@ -38,7 +38,7 @@ const siteConfig = {
 
   docsSideNavCollapsible: true,
   // For no header links in the top nav bar -> headerLinks: [],
-  headerLinks: [{ doc: "automated-dt-workplace", label: "Docs" }],
+  headerLinks: [],
 
   // If you have users set above, you add it here:
   users,
@@ -50,7 +50,7 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: "#207686",
+    primaryColor: "#808080",
     secondaryColor: "#16525d",
   },
 
