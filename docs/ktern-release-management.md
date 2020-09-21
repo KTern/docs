@@ -54,14 +54,14 @@ Release versions are named as
 
 E.g. In the year 2020, the Autumn release version number is 2010
 
-| RELEASE |   NAME    |     TIMELINE      | RELEASE VERSION |
-| ------- | :-------: | :---------------: | :-------------: |
-| 1.      |  Summer   |    April-June     |      2006       |
-| 2.      |  Monsoon  |    June-August    |      2008       |
-| 3.      |  Autumn   |  August-October   |      2010       |
-| 4.      |  Winter   | October-December  |      2012       |
-| 5.      | Prevernal | December-February |      2102       |
-| 6.      |  Spring   |  February-April   |      2104       |
+| RELEASE |        NAME         |     TIMELINE      | RELEASE VERSION |
+| ------- | :-----------------: | :---------------: | :-------------: |
+| 1.      | Muthuvenil (Summer) |    April-June     |      2006       |
+| 2.      |   Kaar (Monsoon)    |    June-August    |      2008       |
+| 3.      |   Kulir (Autumn)    |  August-October   |      2010       |
+| 4.      |  Munpani (Winter)   | October-December  |      2012       |
+| 5.      | Pinpani (Prevernal) | December-February |      2102       |
+| 6.      |  Ilavenil (Spring)  |  February-April   |      2104       |
 
 <br>
 

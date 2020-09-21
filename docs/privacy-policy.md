@@ -115,7 +115,7 @@ KTern may amend this Privacy Policy from time to time. If there are material cha
 
 ### Questions or Suggestions
 
-If you have questions or concerns about our collection, use, or disclosure of your PI, or if you want to be deleted from our database, or to unsubscribe from receiving all KTern information, please e-mail us at: info@ktern.com<b><a target="_blank" style = "color: #9d0102" >info@ktern.com</a></b>.
+If you have questions or concerns about our collection, use, or disclosure of your PI, or if you want to be deleted from our database, or to unsubscribe from receiving all KTern information, please e-mail us at: <b><a target="_blank" style = "color: #9d0102" >info@ktern.com</a></b>.
 <br>
 
 ### Testimonials

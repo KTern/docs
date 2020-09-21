@@ -64,11 +64,7 @@ class HomeSplash extends React.Component {
         id={props.id}
         background={props.background}
       >
-        <GridBlock
-          align='center'
-          contents={props.children}
-          layout={props.layout}
-        />
+        <GridBlock contents={props.children} layout={props.layout} />
       </Container>
     );
 
@@ -87,11 +83,19 @@ class HomeSplash extends React.Component {
       <Block background='light'>
         {[
           {
-            content:
-              "Each new Docusaurus project has **randomly-generated** theme colors.",
-            image: `${baseUrl}img/undraw_youtube_tutorial.svg`,
+            content: "​​",
+            image: `https://ktern.com/img/index/banner.svg`,
             imageAlign: "right",
-            title: "Randomly Generated Theme Colors",
+            title: `Automate and govern your SAP S/4HANA Digital Transformation with KTern.AI <p> <a style = "width: 140px; height: 30px;
+            background-color: #9d0102; /* Green */
+            border: none;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 12px;" href = "https://help.ktern.com/docs/automated-dt-workplace">View Docs</a> </p>`,
           },
         ]}
       </Block>
