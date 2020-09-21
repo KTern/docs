@@ -1,0 +1,26 @@
+{
+  "docs": {
+    "KTern.AI": ["automated-dt-workplace"],
+    "Getting Started": [
+      "sap-activate",
+      "project-creation",
+      "project-launchpad",
+      "my-workspace"
+    ],
+    "Digital Streams": [
+      "digital-projects",
+      "digital-maps",
+      "digital-labs",
+      "digital-process",
+      "digital-mines"
+    ],
+    "Technical Architecture": ["sap-transformations-saasified"],
+    "DevOps Policy": ["ktern-release-management"],
+    "Security": [
+      "security-policy",
+      "terms-of-service",
+      "privacy-policy",
+      "gdpr-compliance"
+    ]
+  }
+}
