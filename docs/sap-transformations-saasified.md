@@ -4,7 +4,7 @@ title: SAP Transformations SaaSified
 sidebar_label: SAP Transformations SaaSified
 ---
 
-<img src = "https://storage.googleapis.com/ktern-public-files/product-documentation/architecture.PNG">
+<img src = "https://storage.googleapis.com/ktern-public-files/product-documentation/ktern-architecture.PNG">
 
 ## SAP Integration
 

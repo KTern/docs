@@ -21,7 +21,7 @@ This Privacy Policy describes how KTern collects and uses any information provid
 5.  your request for additional documentation or material from KTern; or (vi) when you otherwise choose to provide KTern with your personal information.
     <br>
 
-### Information Collection
+## Information Collection
 
 Personal Information (“PI”) refers to any information that relates to an individual who may be identified from that data, or from a combination of a set of data, and other information which is or may be in possession of KTern. Such information may include, but not be limited to, a first and last name, e-mail address, a home, postal or other physical address, or any other information required to provide a service you requested, such as title, birth date, gender, occupation, industry, etc.
 <br>
@@ -38,7 +38,7 @@ KTern receives and/or collects PI from you to enable certain services that we of
 KTern does not intend to transfer your PI to unaffiliated third parties without your consent, except to the limited extent provided herein.
 <br>
 
-### Use of PI
+## Use of PI
 
 KTern uses information for several general purposes: to fulfill your requests for certain information and services, to keep you up to date on the latest announcements, updates, special offers or other information. KTern may also use your information to send you direct marketing information or contact you for market research. If at any time you do not want to receive our advertisements you can “opt out” using the link in the mails sent to you.
 <br>
@@ -67,27 +67,27 @@ KTern may also process your PI for profiling of our customers for marketing and 
 **Consequences of not providing Personal Information** You are not legally obligated to provide us PI, and you hereby confirm that providing us PI is at your own free will. By using our Website, Products and Services, you consent to the terms of this Privacy Policy and to our collection, processing and sharing of PI for the purposes set forth herein. If you do not agree to this Privacy Policy, please do not access or otherwise use the Website, Products and Services (as applicable). If you choose not to provide your PI that is required to process your request, we may not be able to provide the corresponding Service.
 <br>
 
-### Data Retention
+## Data Retention
 
 KTern may retain your PI as long as there is a business requirement, or if otherwise required under applicable laws
 <br>
 
-### Data Security
+## Data Security
 
 KTern takes security very seriously and adopts reasonable and appropriate security practices and procedures that includes administrative, physical security, and technical controls in order to safeguard your P I. Please note, however, that no method of transmission over the Internet, or method of electronic storage, is 100% secured and we cannot guarantee absolute security or confidentiality of users of the Website.
 <br>
 
-### Children's Privacy
+## Children's Privacy
 
 Our Website, Products and Services are not structured to attract children under the age of 13 years. Accordingly, we do not intend to collect PI from anyone we know to be under 13 years. Since our software does not automatically distinguish visitors under 13 from other visitors, we require users under 13 years of age to obtain the consent of a parent, guardian, teacher, or librarian to view the Site. If we learn that we have collected PI from a child under 13 years, we will delete that information as quickly as possible.
 <br>
 
-### Access, Correction, Objection of your Personal Information
+## Access, Correction, Objection of your Personal Information
 
 Depending on local law, you may access, update, or correct your PI that we hold, including your profile and preferences. You may do so in the corresponding sections where such information was provided.
 <br>
 
-### Cookies and Tracking Technology
+## Cookies and Tracking Technology
 
 Like most other commercial websites, KTern’s Website may use a standard technology called “cookies” or other tracking technologies to collect information about how you use the website or to present you with information that is customized for you. A cookie is a small data file that certain websites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the website uses to track the pages you’ve visited. – Certain cookies and other technologies may serve to recall PI, such as an IP address, previously indicated by a user.
 <br>
@@ -108,26 +108,26 @@ By continuing to use our Website, you are agreeing to our placing cookies on you
 2.  **Persistant cookies:** Persistent cookies are stored on a user’s device even after termination of a browsing session. It helps in recalling the preferences or actions of the user. Persistent cookies are used for a variety of purposes such as retaining the visitor’s language and regional preference(s) at the end of each browsing session. We may use services of third-party analytics service provider to analyze cookies to carry out a behavioral analysis in order to enhance user experience and convenience, and also to provide targeted and relevant content to visitors.
     <br>
 
-### Changes to this Privacy Policy
+## Changes to this Privacy Policy
 
 KTern may amend this Privacy Policy from time to time. If there are material changes to the statement, or how KTern will use your PI, we will notify you by posting a prominent notice of such changes on the Website 1 week before they take effect, or by sending you a notification directly. Your continued use of the Website or Services thereafter means that you accept those changes.
 <br>
 
-### Questions or Suggestions
+## Questions or Suggestions
 
 If you have questions or concerns about our collection, use, or disclosure of your PI, or if you want to be deleted from our database, or to unsubscribe from receiving all KTern information, please e-mail us at: <b><a target="_blank" style = "color: #9d0102" >info@ktern.com</a></b>.
 <br>
 
-### Testimonials
+## Testimonials
 
 KTern posts customer testimonials, which may contain personally identifiable information, on its Website. KTern obtains the customer’s consent via email prior to posting the testimonial and to post their name along with their testimonial. If you want your testimonial removed please contact us at: <b><a target="_blank" style = "color: #9d0102" >info@ktern.com</a></b>.
 <br>
 
-### Social media features & Widgets
+## Social media features & Widgets
 
 KTern’s Website includes social media features, such as the Facebook “Like” button and widgets, such as the “Share” button, or interactive mini-programs that run on our Website. These features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it.
 <br>
 
-### User Consent
+## User Consent
 
 By submitting or making available your PI through KTern’s website, products, or related services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your PI in accordance with this Privacy Policy.
