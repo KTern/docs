@@ -21,24 +21,39 @@ class Footer extends React.Component {
         <section className='sitemap'>
           <div>
             <h5>Docs</h5>
-            <a href='https://ktern.com/articles/'>Articles</a>
-            <a href='https://ktern.com/content-repository/'>
+            <a target='_blank' href='https://ktern.com/articles/'>
+              Articles
+            </a>
+            <a target='_blank' href='https://ktern.com/content-repository/'>
               Content Repository
             </a>
-            <a href='https://ktern.com/resources/compare-with-competitors'>
+            <a
+              target='_blank'
+              href='https://ktern.com/resources/compare-with-competitors'
+            >
               Compare KTern
             </a>
-            <a href='https://ktern.com/resources/faq'>FAQ</a>
+            <a target='_blank' href='https://ktern.com/resources/faq'>
+              FAQ
+            </a>
           </div>
           <div>
             <h5>Community</h5>
-            <a href='https://www.linkedin.com/company/ktern'>LinkedIn</a>
-            <a href='https://twitter.com/KTernOfficial'>Twitter</a>
+            <a target='_blank' href='https://www.linkedin.com/company/ktern'>
+              LinkedIn
+            </a>
+            <a target='_blank' href='https://twitter.com/KTernOfficial'>
+              Twitter
+            </a>
           </div>
           <div>
             <h5>More</h5>
-            <a href='https://demo.ktern.com'>Access DEMO</a>
-            <a href='https://app.ktern.com'>Access TRIAL</a>
+            <a target='_blank' href='https://demo.ktern.com'>
+              Access DEMO
+            </a>
+            <a target='_blank' href='https://app.ktern.com'>
+              Access TRIAL
+            </a>
           </div>
         </section>
 
