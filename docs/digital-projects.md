@@ -123,5 +123,5 @@ Project Management, Solution Adoption, Application Design and Configuration, Dat
 
 ### Case Studies
 
-1. <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/content-repository/case-study/comprehensive-sap-s4-hana-readiness-assessment-tech-advance-solution">A comprehensive SAP S/4HANA Readiness Assessment for a leading provider of technologically advanced solutions using KTern</a></b>
-2. <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/sap-s4-hana-system-conversion-ktern-elm">SAP S/4HANA System Conversion using KTern: A Case Study</a></b>
+1. <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/content-repository/case-study/comprehensive-sap-s4-hana-readiness-assessment-tech-advance-solution?utm_source=product-documentation&utm_medium=help-ktern-com">A comprehensive SAP S/4HANA Readiness Assessment for a leading provider of technologically advanced solutions using KTern</a></b>
+2. <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/sap-s4-hana-system-conversion-ktern-elm?utm_source=product-documentation&utm_medium=help-ktern-com">SAP S/4HANA System Conversion using KTern: A Case Study</a></b>

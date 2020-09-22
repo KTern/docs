@@ -9,7 +9,7 @@ sidebar_label: Digital Labs
 Digital Labs automation = SAP test case finder + Business bots + Test run orchestrator + Scheduler cockpit + Business test catalogue + Defect wizards + Intelligent reports
 <br>
 
-For a deatiled description on Digital Labs, read this article - <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/sap-s4-hana-testing-using-ktern-digital-labs-beginner-guide">SAP S/4HANA Testing using KTern's Digital Labs</a></b>
+For a deatiled description on Digital Labs, read this article - <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/sap-s4-hana-testing-using-ktern-digital-labs-beginner-guide?utm_source=product-documentation&utm_medium=help-ktern-com">SAP S/4HANA Testing using KTern's Digital Labs</a></b>
 <br>
 
 ### Streamlined SAP Activate Workstreams
@@ -39,7 +39,7 @@ Testing, Data Management
     - **Value** - This score denotes the merit and significance of the transactional execution for the business scenario.
     - **Volume** - This score denotes the magnitude of the data and documents obtained from the transactional execution of the business scenario.
     - **Velocity** - This score denotes the frequency of the transactional execution for the corresponding business scenario.
-  - Read more on <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/what-need-to-know-sap-testing-recommendations-by-ktern">Test Case Auto-Recommendations here</a></b>
+  - Read more on <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/what-need-to-know-sap-testing-recommendations-by-ktern?utm_source=product-documentation&utm_medium=help-ktern-com">Test Case Auto-Recommendations here</a></b>
 
 - #### Test Catalogue
   - Single Source of Truth for Test Case Repository with Test Plan, Scenario and Case Information in the complete SAP digital transformation journey.
@@ -48,7 +48,7 @@ Testing, Data Management
 
   - Industry specific, SAP focused business testing built on RPA 2.0 technology with autonomous Business API bots and Business UI bots
   - Preparation – Automated test case recommendations with data variants
-  - <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/how-auto-execute-test-cases-using-ktern">Automated test execution</a></b> based on pre-generated test datasets
+  - <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/how-auto-execute-test-cases-using-ktern?utm_source=product-documentation&utm_medium=help-ktern-com">Automated test execution</a></b> based on pre-generated test datasets
   - Automated capturing of test logs and defects
   - Automated test documentation and management in test repository
 
@@ -70,7 +70,7 @@ Testing, Data Management
 
 - #### Mass test execution
 
-  - Large data volume handling with mass <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/how-auto-execute-test-cases-using-ktern">test case execution</a></b> for all types of test plans, scenarios, and cases through test orchestrator
+  - Large data volume handling with mass <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/how-auto-execute-test-cases-using-ktern?utm_source=product-documentation&utm_medium=help-ktern-com">test case execution</a></b> for all types of test plans, scenarios, and cases through test orchestrator
 
 - #### Test Sign-off Wizard
   - Testing stakeholders sign-off orchestration, compliance and collaboration between SI and customer
@@ -94,7 +94,7 @@ Testing, Data Management
 
 - #### Dashboard
 
-  - <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/manage-complete-sap-testing-from-one-place-using-ktern">Transparency and control over test execution</a></b> with resource utilization tracker and defects monitoring
+  - <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/manage-complete-sap-testing-from-one-place-using-ktern?utm_source=product-documentation&utm_medium=help-ktern-com">Transparency and control over test execution</a></b> with resource utilization tracker and defects monitoring
 
 - #### Seamless UI/UX Integration
 
@@ -116,4 +116,4 @@ Testing, Data Management
 
 ### Case Studies
 
-1. <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/sap-s4-hana-system-conversion-ktern-elm">SAP S/4HANA System Conversion using KTern: A Case Study</a></b>
+1. <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/sap-s4-hana-system-conversion-ktern-elm?utm_source=product-documentation&utm_medium=help-ktern-com">SAP S/4HANA System Conversion using KTern: A Case Study</a></b>

@@ -96,7 +96,7 @@ class HomeSplash extends React.Component {
             font-size: 16px;
             margin: 4px 2px;
             cursor: pointer;
-            border-radius: 12px;" target = "_blank" href = "https://demo.ktern.com">Try it now</a> <a style = "width: 140px; height: 30px;
+            border-radius: 12px;" target = "_blank" href = "https://demo.ktern.com?utm_source=product-documentation&utm_medium=help-ktern-com">Try it now</a> <a style = "width: 140px; height: 30px;
             background-color: #9d0102; /* Green */
             border: none;
             color: white;

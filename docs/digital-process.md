@@ -39,11 +39,11 @@ Solution Adoption, Extensibility, Operations and Support, Integration
 
   - Analytical wizards for custom process profiling by objects, stakeholders, application, scope of optimization, impact and custom to standard process adaptation insights in S/4HANA
   - KTern helps the users generate a list of findings where the custom code does not comply with the scope and data structure of SAP S/4HANA. Also used in the management of WRICEF objects and tracking to adapt customizations for business
-  - Read more on <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/what-need-to-know-sap-custom-code-impact-analysis-using-ktern">custom code impact analysis here</a></b>
+  - Read more on <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/what-need-to-know-sap-custom-code-impact-analysis-using-ktern?utm_source=product-documentation&utm_medium=help-ktern-com">custom code impact analysis here</a></b>
 
 - #### Custom code remediation engine
   - Automated custom code remediation for pre-defined S/4HANA simplification scenarios with auto-learning potential of manual code correction
-  - Read the full capabilites of <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/sap-custom-code-migration-guide">custom code remediation here</a></b>
+  - Read the full capabilites of <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/sap-custom-code-migration-guide?utm_source=product-documentation&utm_medium=help-ktern-com">custom code remediation here</a></b>
 
 <center>
 <img src = "https://storage.googleapis.com/ktern-public-files/product-documentation/code-remediation.png">
@@ -60,7 +60,7 @@ Solution Adoption, Extensibility, Operations and Support, Integration
 - #### Training Academy
 
   - Change management enablement wizards for the business stakeholders with process understanding, knowledge transfer and training advisory
-  - Read more about <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/handle-sap-s4-hana-change-management-training-scenario-recommendations">Training Academy here</a></b>
+  - Read more about <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/handle-sap-s4-hana-change-management-training-scenario-recommendations?utm_source=product-documentation&utm_medium=help-ktern-com">Training Academy here</a></b>
 
   <center>
   <img src = "https://ktern.com/img/articles/training-3.png" height=240>
@@ -77,4 +77,4 @@ Solution Adoption, Extensibility, Operations and Support, Integration
 
 ### Case Studies
 
-1. <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/sap-s4-hana-system-conversion-ktern-elm">SAP S/4HANA System Conversion using KTern: A Case Study</a></b>
+1. <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/sap-s4-hana-system-conversion-ktern-elm?utm_source=product-documentation&utm_medium=help-ktern-com">SAP S/4HANA System Conversion using KTern: A Case Study</a></b>

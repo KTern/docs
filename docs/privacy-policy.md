@@ -10,7 +10,7 @@ sidebar_label: Privacy policy
 This Privacy Policy describes how KTern collects and uses any information provided by you in connection with the use of:
 <br>
 
-1.  our website <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/">www.ktern.com</a></b>, and any other website that we may operate (each, together with its sub-domains, content and services, collectively, the “Website”);
+1.  our website <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com?utm_source=product-documentation&utm_medium=help-ktern-com">www.ktern.com</a></b>, and any other website that we may operate (each, together with its sub-domains, content and services, collectively, the “Website”);
     <br>
 2.  any services we provide (such services, including without limitation any software-as-a-service, and support or maintenance services, the “Services”);
     <br>

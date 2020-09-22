@@ -21,37 +21,58 @@ class Footer extends React.Component {
         <section className='sitemap'>
           <div>
             <h5>Docs</h5>
-            <a target='_blank' href='https://ktern.com/articles/'>
+            <a
+              target='_blank'
+              href='https://ktern.com/articles?utm_source=product-documentation&utm_medium=help-ktern-com'
+            >
               Articles
             </a>
-            <a target='_blank' href='https://ktern.com/content-repository/'>
+            <a
+              target='_blank'
+              href='https://ktern.com/content-repository?utm_source=product-documentation&utm_medium=help-ktern-com'
+            >
               Content Repository
             </a>
             <a
               target='_blank'
-              href='https://ktern.com/resources/compare-with-competitors'
+              href='https://ktern.com/resources/compare-with-competitors?utm_source=product-documentation&utm_medium=help-ktern-com'
             >
               Compare KTern
             </a>
-            <a target='_blank' href='https://ktern.com/resources/faq'>
+            <a
+              target='_blank'
+              href='https://ktern.com/resources/faq?utm_source=product-documentation&utm_medium=help-ktern-com'
+            >
               FAQ
             </a>
           </div>
           <div>
             <h5>Community</h5>
-            <a target='_blank' href='https://www.linkedin.com/company/ktern'>
+            <a
+              target='_blank'
+              href='https://www.linkedin.com/company/ktern?utm_source=product-documentation&utm_medium=help-ktern-com'
+            >
               LinkedIn
             </a>
-            <a target='_blank' href='https://twitter.com/KTernOfficial'>
+            <a
+              target='_blank'
+              href='https://twitter.com/KTernOfficial?utm_source=product-documentation&utm_medium=help-ktern-com'
+            >
               Twitter
             </a>
           </div>
           <div>
             <h5>More</h5>
-            <a target='_blank' href='https://demo.ktern.com'>
+            <a
+              target='_blank'
+              href='https://demo.ktern.com?utm_source=product-documentation&utm_medium=help-ktern-com'
+            >
               Access DEMO
             </a>
-            <a target='_blank' href='https://app.ktern.com'>
+            <a
+              target='_blank'
+              href='https://app.ktern.com?utm_source=product-documentation&utm_medium=help-ktern-com'
+            >
               Access TRIAL
             </a>
           </div>

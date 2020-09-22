@@ -101,10 +101,10 @@ The NOC and SOC teams monitor the infrastructure 24x7 for stability, intrusions 
 
 ## Regulatory Compliance
 
-All formal processes and security standards at KTern are designed to meet regulations at the industry, state, federal and international levels. KTern adheres to strict data security, access, integrity policies, among other principles defined in the safe harbor framework. We implement the industry standard security, technical, physical and administrative measures against unauthorized processing of such information and against loss, destruction of, or damage to, personal information as more fully described in KTern <b><a target="_blank" style = "color: #9d0102" href="https://www.ktern.com/privacy-policy/">Privacy Page</a></b>.
+All formal processes and security standards at KTern are designed to meet regulations at the industry, state, federal and international levels. KTern adheres to strict data security, access, integrity policies, among other principles defined in the safe harbor framework. We implement the industry standard security, technical, physical and administrative measures against unauthorized processing of such information and against loss, destruction of, or damage to, personal information as more fully described in KTern <b><a target="_blank" style = "color: #9d0102" href="https://www.ktern.com/privacy-policy?utm_source=product-documentation&utm_medium=help-ktern-com">Privacy Page</a></b>.
 <br>
 
-For information regarding our GDPR Compliance refer to this <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/gdpr-compliance/">link</a></b>.
+For information regarding our GDPR Compliance refer to this <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/gdpr-compliance?utm_source=product-documentation&utm_medium=help-ktern-com">link</a></b>.
 
 ## Reporting Issues & Threats
 
