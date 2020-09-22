@@ -9,7 +9,7 @@ sidebar_label: Digital Labs
 Digital Labs automation = SAP test case finder + Business bots + Test run orchestrator + Scheduler cockpit + Business test catalogue + Defect wizards + Intelligent reports
 <br>
 
-For a deatiled description on Digital Labs, read this article - <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/sap-s4-hana-testing-using-ktern-digital-labs-beginner-guide?utm_source=product-documentation&utm_medium=help-ktern-com">SAP S/4HANA Testing using KTern's Digital Labs</a></b>
+For a detailed description on Digital Labs, read this article - <b><a target="_blank" style = "color: #9d0102" href="https://ktern.com/article/sap-s4-hana-testing-using-ktern-digital-labs-beginner-guide?utm_source=product-documentation&utm_medium=help-ktern-com">SAP S/4HANA Testing using KTern's Digital Labs</a></b>
 <br>
 
 ### Streamlined SAP Activate Workstreams
