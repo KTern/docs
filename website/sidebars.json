@@ -15,12 +15,15 @@
       "digital-mines"
     ],
     "Technical Architecture": ["sap-transformations-saasified"],
-    "DevOps Policy": ["ktern-release-management"],
     "Security": [
       "security-policy",
       "terms-of-service",
       "privacy-policy",
       "gdpr-compliance"
+    ],
+    "Product Updates": [
+      "ktern-release-management",
+      "release-notes"
     ]
   }
 }
