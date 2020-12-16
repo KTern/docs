@@ -1,6 +1,6 @@
 ---
 id: release-notes
-title: Release Notes
+title: Product Release Notes
 sidebar_label: Release Notes
 ---
 
