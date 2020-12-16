@@ -28,7 +28,7 @@ sidebar_label: Release Notes
 
 1. You might have to attend several meetings during the course of the project, and some of these meetings may be similar. Therefore, you can simply duplicate the summary section of similar meetings. It can save up a lot of time writing those boring meeting notes
 2. Have complete control over the kind of notifications that you get from KTern. We now allow the users to set and edit their notification preferences
-3. <strong>Bug Fix:</strong> Sometimes, when had to open a particular workitem in a new tab, KTern would have asked you to login again. That’s annoying, right? So, we fixed that issue. Everything should be running smoother now.
+3. <strong>Bug Fix: </strong> Sometimes, when had to open a particular workitem in a new tab, KTern would have asked you to login again. That’s annoying, right? So, we fixed that issue. Everything should be running smoother now.
 
 </details>
 
