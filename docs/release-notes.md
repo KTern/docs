@@ -7,12 +7,10 @@ sidebar_label: Release Notes
 <details open>
 <summary>
 <span style="color:#9d0102">
-    <b>Pinpani Release - 2102</b>
+    <b>Munpani Release - 2012</b>
 </span> - 
 15 December, 2020
 </summary>
-
-#### <u>Sprint 1</u>
 
 ### What’s improved
 
