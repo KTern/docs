@@ -9,7 +9,7 @@ sidebar_label: Release Notes
 <span style="color:#9d0102">
     <b>Munpani Release - 2012</b>
 </span> - 
-15 December, 2020
+15 December, 2020 
 </summary>
 
 ### What’s improved
