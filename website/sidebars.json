@@ -16,10 +16,12 @@
       "digital-process",
       "digital-mines"
     ],
-    "Technical Architecture": ["sap-transformations-saasified"],
+    "Technical Architecture": [
+      "sap-transformations-saasified",
+      "secure-cloud-data-store"
+    ],
     "Trust Center": [
       "overview",
-      "secure-cloud-data-store",
       "secure-rfc-communication",
       "security-policy",
       "api-security",
