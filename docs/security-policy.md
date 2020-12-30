@@ -66,6 +66,19 @@ Our product collect limited information about customers - name, email address an
 Application logs are maintained, incremental data recovery and consistent, cluster-wide snapshots of sharded clusters is offered. All database clusters are highly available and backed by an industry-leading uptime SLA of 99.995%. Google Cloud Platform Redundant architecture exists such that data is replicated in real-time to at least two geographically dispersed data centers. The data centers are connected through multiple encrypted network links andinterfaces. This provides high availability by dynamically load balancing across those sites.
 <br>
 
+## Data Access and Disposal
+
+The hyperclouds in which KTern.AI IP engine is managed, the controls and practices are established to protect the security of
+KTern.AI IP information. The layers of the application and storage stack require that requests coming from other components
+are authenticated and authorized. Access by KTern.AI production application administrative engineers to production
+environments is also controlled. A centralized group and role management system is used to define and control engineers’
+access to production services, using a security protocol that authenticates engineers using short-lived personal public key
+certificates; issuance of personal certificates is in turn guarded by two-factor authentication.
+
+When the subscription period ends or in the event of a contract being terminated, the user access will be revoked, account will
+be deleted and all associated data is destroyed within 50 business days with prior notification to the account stakeholders.
+KTern.AI also offers data export options which businesses can use if they want a backup of their data before deletion.
+
 ## Data Deletion
 
 When an account is deleted, all associated data is destroyed within 50 business days. KTern also offer data export options which businesses can use if they want a backup of their data before deletion. For more information regarding data deletion refer to our <b><a target="_blank" style = "color: #9d0102" href="https://www.ktern.com/privacy-policy/">Privacy Page</a></b>.
@@ -113,9 +126,9 @@ At KTern, we take the protection of our customer's data very seriously. If you h
 
 We ask that you do not share or publicize an unresolved vulnerability with/to third parties. If you submit a vulnerability report, the KTern security team and associated development teams will use reasonable efforts to:
 
-- Respond in a timely manner, acknowledging receipt of your vulnerability report
-- Investigate the reported issue and provide an estimated time frame for addressing the vulnerability report. We might ask for your guidance in identifying or replicating the issue and understanding any means to resolving the threat right away
-- Notify you when the vulnerability has been fixed
+-  Respond in a timely manner, acknowledging receipt of your vulnerability report
+-  Investigate the reported issue and provide an estimated time frame for addressing the vulnerability report. We might ask for your guidance in identifying or replicating the issue and understanding any means to resolving the threat right away
+-  Notify you when the vulnerability has been fixed
 
 ## Get in touch with us
 

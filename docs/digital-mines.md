@@ -9,6 +9,19 @@ sidebar_label: Digital Mines
 Digital Mines automation = SAP Business Ops wizards + Process mining bots + Business data miners + Digital Twin builders + ROI estimator + Process optimizers + CXEX optimizers
 <br>
 
+### Pre-requisites for assessment with Digital Maps
+
+-  A latest COPY of SAP PRD (production) system must be provided with required connection details.
+-  Last 6 month ST03N statistics of the PRD (production) must be imported in the provided system.
+-  RFC Communication User with 'SAP_ALL' authorization profile must be ensured.
+-  For custom code impact analysis KPI, the following SAP Notes must be implemented in the provided system : 2270689, 2485231, 2190065, 2196792.
+-  Port 33xx must be accessible in client network, as it is the default SAP Gateway port. (where xx relates to the Instance number of SAP system)
+
+#### Reference
+
+-  If translation of IP addresses is carried out using NAT, kindly refer to this SAP Note 148832
+-  SAP Ports reference : https://help.sap.com/viewer/ports
+
 ### Streamlined SAP Activate Workstreams
 
 Data Management
@@ -16,12 +29,12 @@ Data Management
 
 ### Stakeholders involved
 
-- Customer project execution stakeholders –Project Manager, IT Manager, IT Department Head, IT Consultant, Infra & Network Engineer, Tester, Business SME
+-  Customer project execution stakeholders –Project Manager, IT Manager, IT Department Head, IT Consultant, Infra & Network Engineer, Tester, Business SME
 
-- SAP System Integrator stakeholders – PMO Head, Practice Head, Project Manager, IT Manager, Solution Architect, Technical Consultant, Functional Consultant, Infra & Network Engineer, Test Manager, Test Engineer
+-  SAP System Integrator stakeholders – PMO Head, Practice Head, Project Manager, IT Manager, Solution Architect, Technical Consultant, Functional Consultant, Infra & Network Engineer, Test Manager, Test Engineer
 
-- SAP & Partner engagement stakeholders – Support Team
-  <br>
+-  SAP & Partner engagement stakeholders – Support Team
+   <br>
 
 ### Digital Process - Features
 
@@ -29,32 +42,32 @@ Data Management
 <img src = "https://ktern.com/img/index/process-anamolies.PNG">
 </center>
 
-- #### Business-Ops wizards
+-  #### Business-Ops wizards
 
-  - Value engineering of the business process and optimization insights to run streamlined enterprise operations
+   -  Value engineering of the business process and optimization insights to run streamlined enterprise operations
 
-- #### Business data miners and validators
-  - Mining and validation of data at the business layer during cutover downtime, before and after the transition considering the simplifications in S/4HANA
-  - Reports with list and summary views depicting the anomalies and integrity in data
-  - Insights on the data anomalies in transition for quick resolution
-- #### Process mining and simulator bots
+-  #### Business data miners and validators
+   -  Mining and validation of data at the business layer during cutover downtime, before and after the transition considering the simplifications in S/4HANA
+   -  Reports with list and summary views depicting the anomalies and integrity in data
+   -  Insights on the data anomalies in transition for quick resolution
+-  #### Process mining and simulator bots
 
-  - Process capturing and simulation of the enterprise operations with analytical insights from business data mining
+   -  Process capturing and simulation of the enterprise operations with analytical insights from business data mining
 
-- #### Digital twin builders
+-  #### Digital twin builders
 
-  - Building the digital replica of the routine operations for business study and recommendations for business process efficiency
+   -  Building the digital replica of the routine operations for business study and recommendations for business process efficiency
 
-- #### RoI Estimator
+-  #### RoI Estimator
 
-  - Analyze the data for transformation into business value and determine the ROI for the IT, enterprise operations
+   -  Analyze the data for transformation into business value and determine the ROI for the IT, enterprise operations
 
-- #### Integration console
+-  #### Integration console
 
-  - Integration of the process scope items with SAP Activate aligned project work items and unified component platform
+   -  Integration of the process scope items with SAP Activate aligned project work items and unified component platform
 
-- #### Process and CXEX optimizer
-  - Business process enrichment suggestions with automated optimization bots for running streamlined operations with improved customer and employee experience
+-  #### Process and CXEX optimizer
+   -  Business process enrichment suggestions with automated optimization bots for running streamlined operations with improved customer and employee experience
 
 ### Innovations and Benefits for ERP Transformation
 

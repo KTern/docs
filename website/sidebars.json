@@ -1,6 +1,8 @@
 {
   "docs": {
-    "KTern.AI": ["automated-dt-workplace"],
+    "KTern.AI": [
+      "automated-dt-workplace"
+    ],
     "Getting Started": [
       "sap-activate",
       "project-creation",
@@ -15,11 +17,16 @@
       "digital-mines"
     ],
     "Technical Architecture": ["sap-transformations-saasified"],
-    "Security": [
+    "Trust Center": [
+      "overview",
+      "secure-cloud-data-store",
+      "secure-rfc-communication",
       "security-policy",
+      "api-security",
       "terms-of-service",
       "privacy-policy",
-      "gdpr-compliance"
+      "gdpr-compliance",
+      "security-compliance"
     ],
     "Product Updates": [
       "ktern-release-management",
