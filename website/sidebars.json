@@ -1,38 +1,64 @@
 {
   "docs": {
-    "KTern.AI": [
-      "automated-dt-workplace"
+    "Introduction": [
+      "ktern-ai",
+      "ktern-ai-for-sap-digital-transformations",
+      "value-propositions",
+      "five-streams-for-ktern-ai",
+      "features",
+      "product-architecture"
     ],
-    "Getting Started": [
-      "sap-activate",
-      "project-creation",
+    "Beginner`s Guide": [
+      "project",
+      "create-new-project",
+      "connecting-to-sap-system"
+    ],
+    "Digital Projects": [
+      "introduction-to-digital-projects",
+      "sap-activate-overview",
+      "my-workspace",
       "project-launchpad",
-      "my-workspace"
+      "create-task",
+      "create-issue",
+      "project-control-center",
+      "project-dashboard",
+      "timeline",
+      "milestones",
+      "user-management",
+      "calendar",
+      "events-management",
+      "files-management",
+      "forum",
+      "sign-offs",
+      "phase-kernel"
     ],
-    "Digital Streams": [
-      "digital-projects",
-      "digital-maps",
-      "digital-labs",
-      "digital-process",
-      "digital-mines"
+    "Digital Labs": [
+      "introduction-to-digital-labs",
+      "terminology",
+      "test-cockpit",
+      "test-plan",
+      "test-scenario",
+      "working-with-test-cases",
+      "test-case-wizard",
+      "test-scripts",
+      "test-execution-log",
+      "test-dashboard",
+      "test-signoff"
     ],
-    "Technical Architecture": [
-      "sap-transformations-saasified",
-      "secure-cloud-data-store"
+    "Digital Maps": [
+      "introduction-to-digital-maps",
+      "landscape-assessment",
+      "business-process-assessment",
+      "custom-objects-assessment",
+      "business-transformation-assessment",
+      "timeline-assessment"
     ],
-    "Trust Center": [
-      "overview",
-      "secure-rfc-communication",
-      "security-policy",
-      "api-security",
-      "terms-of-service",
-      "privacy-policy",
-      "gdpr-compliance",
-      "security-compliance"
-    ],
-    "Product Updates": [
-      "ktern-release-management",
-      "release-notes"
+    "Digital Process": [
+      "introduction-to-digital-process",
+      "custom-process-profiling-console",
+      "custom-object-remediation",
+      "overview-of-process-management",
+      "digital-process-cockpit"
     ]
   }
 }

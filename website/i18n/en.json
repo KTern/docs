@@ -5,126 +5,207 @@
     "previous": "Previous",
     "tagline": "KTern.AI - Help Documentation",
     "docs": {
-      "api-security": {
-        "title": "API Security",
-        "sidebar_label": "API Security"
+      "business-process-assessment": {
+        "title": "Business Process Assessment",
+        "sidebar_label": "Business Process Assessment"
       },
-      "automated-dt-workplace": {
-        "title": "Introduction - Automated DT Workplace",
-        "sidebar_label": "Introduction - Automated DT Workplace"
+      "business-transformation-assessment": {
+        "title": "Business Transformation Assessment",
+        "sidebar_label": "Business Transformation Assessment"
       },
-      "digital-labs": {
-        "title": "Digital Labs",
-        "sidebar_label": "Digital Labs"
+      "calendar": {
+        "title": "Calendar",
+        "sidebar_label": "Calendar"
       },
-      "digital-maps": {
-        "title": "Digital Maps",
-        "sidebar_label": "Digital Maps"
+      "connecting-to-sap-system": {
+        "title": "Connecting to the SAP System",
+        "sidebar_label": "Connecting to the SAP System"
       },
-      "digital-mines": {
-        "title": "Digital Mines",
-        "sidebar_label": "Digital Mines"
+      "create-issue": {
+        "title": "Create an Issue",
+        "sidebar_label": "Create an Issue"
       },
-      "digital-process": {
-        "title": "Digital Process",
-        "sidebar_label": "Digital Process"
+      "create-new-project": {
+        "title": "Create new Project",
+        "sidebar_label": "Create new Project"
       },
-      "digital-projects": {
-        "title": "Digital Projects",
-        "sidebar_label": "Digital Projects"
+      "create-task": {
+        "title": "Create a Task",
+        "sidebar_label": "Create a Task"
       },
-      "doc1": {
-        "title": "Latin-ish",
-        "sidebar_label": "Example Page"
+      "custom-object-remediation": {
+        "title": "Custom Object Remediation",
+        "sidebar_label": "Custom Object Remediation"
       },
-      "doc2": {
-        "title": "document number 2"
+      "custom-objects-assessment": {
+        "title": "Custom Objects Assessment",
+        "sidebar_label": "Custom Objects Assessment"
       },
-      "doc3": {
-        "title": "This is document number 3",
-        "sidebar_label": "Example Page 1"
+      "custom-process-profiling-console": {
+        "title": "Custom Process Profiling Console",
+        "sidebar_label": "Custom Process Profiling Console"
       },
-      "doc4": {
-        "title": "Other Document"
+      "digital-process-cockpit": {
+        "title": "Digital Process Cockpit",
+        "sidebar_label": "Digital Process Cockpit"
       },
-      "doc5": {
-        "title": "Fifth Document"
+      "events-management": {
+        "title": "Events Management",
+        "sidebar_label": "Events Management"
       },
-      "gdpr-compliance": {
-        "title": "GDPR Compliance",
-        "sidebar_label": "GDPR Compliance"
+      "features": {
+        "title": "Features",
+        "sidebar_label": "Features"
       },
-      "ktern-release-management": {
-        "title": "KTern Release Management",
-        "sidebar_label": "KTern Release Management"
+      "files-management": {
+        "title": "Files Management",
+        "sidebar_label": "Files Management"
+      },
+      "five-streams-for-ktern-ai": {
+        "title": "Five Streams for KTern.AI",
+        "sidebar_label": "Five Streams for KTern.AI"
+      },
+      "forum": {
+        "title": "Forum",
+        "sidebar_label": "Forum"
+      },
+      "introduction-to-digital-labs": {
+        "title": "Introduction to Digital Labs",
+        "sidebar_label": "Introduction to Digital Labs"
+      },
+      "introduction-to-digital-maps": {
+        "title": "Introduction to Digital Maps",
+        "sidebar_label": "Introduction to Digital Maps"
+      },
+      "introduction-to-digital-process": {
+        "title": "Introduction to Digital Process",
+        "sidebar_label": "Introduction to Digital Process"
+      },
+      "introduction-to-digital-projects": {
+        "title": "Introduction to Digital Projects",
+        "sidebar_label": "Introduction"
+      },
+      "ktern-ai-for-sap-digital-transformations": {
+        "title": "KTern.AI for SAP Digital Transformations",
+        "sidebar_label": "KTern.AI for SAP Digital Transformations"
+      },
+      "ktern-ai": {
+        "title": "Introduction to KTern.AI",
+        "sidebar_label": "Introduction to KTern.AI"
+      },
+      "landscape-assessment": {
+        "title": "Landscape Assessment",
+        "sidebar_label": "Landscape Assessment"
+      },
+      "milestones": {
+        "title": "Milestones",
+        "sidebar_label": "Milestones"
       },
       "my-workspace": {
-        "title": "My workspace",
-        "sidebar_label": "My workspace"
+        "title": "My Workspace",
+        "sidebar_label": "My Workspace"
       },
-      "overview": {
-        "title": "Trust Center - Overview",
-        "sidebar_label": "Overview"
+      "overview-of-process-management": {
+        "title": "Overview of Process Management",
+        "sidebar_label": "Overview of Process Management"
       },
-      "privacy-policy": {
-        "title": "Privacy policy",
-        "sidebar_label": "Privacy policy"
+      "phase-kernel": {
+        "title": "Phase Kernel",
+        "sidebar_label": "Phase Kernel"
       },
-      "project-creation": {
-        "title": "New Project creation",
-        "sidebar_label": "New Project creation"
+      "product-architecture": {
+        "title": "Product Architecture",
+        "sidebar_label": "Product Architecture"
+      },
+      "project-control-center": {
+        "title": "Project Control Center",
+        "sidebar_label": "Project Control Center"
+      },
+      "project-dashboard": {
+        "title": "Project Dashboard",
+        "sidebar_label": "Project Dashboard"
       },
       "project-launchpad": {
         "title": "Project Launchpad",
         "sidebar_label": "Project Launchpad"
       },
-      "release-notes": {
-        "title": "Product Release Notes",
-        "sidebar_label": "Release Notes"
+      "project": {
+        "title": "Introduction to Projects in KTern.AI",
+        "sidebar_label": "Introduction to Projects in KTern.AI"
       },
-      "sap-activate": {
-        "title": "SAP Activate",
-        "sidebar_label": "SAP Activate"
+      "sap-activate-overview": {
+        "title": "Overview of the SAP Activate Methodology",
+        "sidebar_label": "Overview of the SAP Activate Methodology"
       },
-      "sap-transformations-saasified": {
-        "title": "SAP Transformations SaaSified",
-        "sidebar_label": "SAP Transformations SaaSified"
+      "sign-offs": {
+        "title": "Signoffs",
+        "sidebar_label": "Signoffs"
       },
-      "secure-cloud-data-store": {
-        "title": "Data Store in Secure Cloud Platform",
-        "sidebar_label": "Data Store Architecture"
+      "terminology": {
+        "title": "Terminology",
+        "sidebar_label": "Terminology"
       },
-      "secure-rfc-communication": {
-        "title": "RFC Communication",
-        "sidebar_label": "RFC Communication"
+      "test-case-wizard": {
+        "title": "Test Case Wizard",
+        "sidebar_label": "Test Case Wizard"
       },
-      "security-compliance": {
-        "title": "Security Compliance",
-        "sidebar_label": "Security Compliance"
+      "test-cockpit": {
+        "title": "Test Cockpit",
+        "sidebar_label": "Test Cockpit"
       },
-      "security-policy": {
-        "title": "Security policy",
-        "sidebar_label": "Security policy"
+      "test-dashboard": {
+        "title": "Test Dashboard",
+        "sidebar_label": "Test Dashboard"
       },
-      "terms-of-service": {
-        "title": "Terms of Service",
-        "sidebar_label": "Terms of Service"
+      "test-execution-log": {
+        "title": "Test Execution Log",
+        "sidebar_label": "Test Execution Log"
       },
-      "transformations-with-ktern": {
-        "title": "transformations-with-ktern"
+      "test-plan": {
+        "title": "Test Plan",
+        "sidebar_label": "Test Plan"
       },
-      "transformations-without-ktern": {
-        "title": "transformations-without-ktern"
+      "test-scenario": {
+        "title": "Test Scenario",
+        "sidebar_label": "Test Scenario"
+      },
+      "test-scripts": {
+        "title": "Test Scripts",
+        "sidebar_label": "Test Scripts"
+      },
+      "test-signoff": {
+        "title": "Test Signoff",
+        "sidebar_label": "Test Signoff"
+      },
+      "timeline-assessment": {
+        "title": "Timeline Assessment",
+        "sidebar_label": "Timeline Assessment"
+      },
+      "timeline": {
+        "title": "Timeline",
+        "sidebar_label": "Timeline"
+      },
+      "user-management": {
+        "title": "User Management",
+        "sidebar_label": "User Management"
+      },
+      "value-propositions": {
+        "title": "Value Propositions",
+        "sidebar_label": "Value Propositions"
+      },
+      "working-with-test-cases": {
+        "title": "Working with Test Cases",
+        "sidebar_label": "Working with Test Cases"
       }
     },
     "links": {},
     "categories": {
-      "KTern.AI": "KTern.AI",
-      "Getting Started": "Getting Started",
-      "Digital Streams": "Digital Streams",
-      "Technical Architecture": "Technical Architecture",
-      "Trust Center": "Trust Center",
-      "Product Updates": "Product Updates"
+      "Introduction": "Introduction",
+      "Beginner`s Guide": "Beginner`s Guide",
+      "Digital Projects": "Digital Projects",
+      "Digital Labs": "Digital Labs",
+      "Digital Maps": "Digital Maps",
+      "Digital Process": "Digital Process"
     }
   },
   "pages-strings": {
