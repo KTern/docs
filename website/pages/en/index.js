@@ -69,24 +69,24 @@ class HomeSplash extends React.Component {
     );
 
     return (
-      // <SplashContainer>
-      //   <Logo img_src={`${baseUrl}img/undraw_monitor.svg`} />
-      //   <div className="inner">
-      //     <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} />
-      //     <PromoSection>
-      //       <Button href="#try">Try It Out</Button>
-      //       <Button href={docUrl('doc1.html')}>Example Link</Button>
-      //       <Button href={docUrl('doc2.html')}>Example Link 2</Button>
-      //     </PromoSection>
-      //   </div>
-      // </SplashContainer>
-      <Block background='light'>
-        {[
-          {
-            content: "​​",
-            image: `https://ktern.com/img/index/banner.svg`,
-            imageAlign: "right",
-            title: ` <h1> Automate and govern your SAP S/4HANA Digital Transformation with KTern.AI </h1> <br> <p> 
+			// <SplashContainer>
+			//   <Logo img_src={`${baseUrl}img/undraw_monitor.svg`} />
+			//   <div className="inner">
+			//     <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} />
+			//     <PromoSection>
+			//       <Button href="#try">Try It Out</Button>
+			//       <Button href={docUrl('doc1.html')}>Example Link</Button>
+			//       <Button href={docUrl('doc2.html')}>Example Link 2</Button>
+			//     </PromoSection>
+			//   </div>
+			// </SplashContainer>
+			<Block background="light">
+				{[
+					{
+						content: '​​',
+						image: `https://ktern.com/img/index/banner.svg`,
+						imageAlign: 'right',
+						title: ` <h1> Automate and govern your SAP S/4HANA Digital Transformation with KTern.AI </h1> <br> <p> 
             <a style = "width: 140px; height: 30px;
             background-color: #9d0102; /* Green */
             border: none;
@@ -105,11 +105,11 @@ class HomeSplash extends React.Component {
             font-size: 16px;
             margin: 4px 2px;
             cursor: pointer;
-            border-radius: 12px;" href = "https://help.ktern.com/docs/automated-dt-workplace">View Docs</a> </p>`,
-          },
-        ]}
-      </Block>
-    );
+            border-radius: 12px;" href = "https://help.ktern.com/docs/ktern-ai">View Docs</a> </p>`,
+					},
+				]}
+			</Block>
+		);
   }
 }
 
