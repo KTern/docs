@@ -59,6 +59,20 @@
       "custom-object-remediation",
       "overview-of-process-management",
       "digital-process-cockpit"
+    ],
+    "Product Updates": [
+      "ktern-release-management",
+      "release-notes"
+    ],
+    "Trust Center": [
+      "overview",
+      "secure-rfc-communication",
+      "security-policy",
+      "api-security",
+      "terms-of-service",
+      "privacy-policy",
+      "gdpr-compliance",
+      "security-compliance"
     ]
   }
 }
