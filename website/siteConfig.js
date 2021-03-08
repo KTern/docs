@@ -38,7 +38,7 @@ const siteConfig = {
 
 	docsSideNavCollapsible: true,
 	// For no header links in the top nav bar -> headerLinks: [],
-	headerLinks: [],
+	headerLinks: [{ search: true }],
 
 	// If you have users set above, you add it here:
 	users,
@@ -90,15 +90,20 @@ const siteConfig = {
 	ogImage: 'img/undraw_online.svg',
 	twitterImage: 'img/undraw_tweetstorm.svg',
 
+	algolia: {
+		apiKey: '662c2515081384812b8d5658a0a0a6ad',
+		indexName: 'ktern',
+	},
+
 	// For sites with a sizable amount of content, set collapsible to true.
 	// Expand/collapse the links and subcategories under categories.
 	// docsSideNavCollapsible: true,
 
 	// Show documentation's last contributor's name.
-	// enableUpdateBy: true,
+	enableUpdateBy: true,
 
 	// Show documentation's last update time.
-	// enableUpdateTime: true,
+	enableUpdateTime: true,
 
 	// You may provide arbitrary config keys to be used as needed by your
 	// template. For example, if you need your repo's URL...

@@ -5,6 +5,10 @@
     "previous": "Previous",
     "tagline": "KTern.AI - Help Documentation",
     "docs": {
+      "api-security": {
+        "title": "API Security",
+        "sidebar_label": "API Security"
+      },
       "business-process-assessment": {
         "title": "Business Process Assessment",
         "sidebar_label": "Business Process Assessment"
@@ -69,6 +73,10 @@
         "title": "Forum",
         "sidebar_label": "Forum"
       },
+      "gdpr-compliance": {
+        "title": "GDPR Compliance",
+        "sidebar_label": "GDPR Compliance"
+      },
       "introduction-to-digital-labs": {
         "title": "Introduction to Digital Labs",
         "sidebar_label": "Introduction to Digital Labs"
@@ -76,6 +84,9 @@
       "introduction-to-digital-maps": {
         "title": "Introduction to Digital Maps",
         "sidebar_label": "Introduction to Digital Maps"
+      },
+      "introduction-to-digital-mines": {
+        "title": "introduction-to-digital-mines"
       },
       "introduction-to-digital-process": {
         "title": "Introduction to Digital Process",
@@ -93,6 +104,10 @@
         "title": "Introduction to KTern.AI",
         "sidebar_label": "Introduction to KTern.AI"
       },
+      "ktern-release-management": {
+        "title": "KTern Release Management",
+        "sidebar_label": "KTern Release Management"
+      },
       "landscape-assessment": {
         "title": "Landscape Assessment",
         "sidebar_label": "Landscape Assessment"
@@ -109,9 +124,17 @@
         "title": "Overview of Process Management",
         "sidebar_label": "Overview of Process Management"
       },
+      "overview": {
+        "title": "Trust Center - Overview",
+        "sidebar_label": "Overview"
+      },
       "phase-kernel": {
         "title": "Phase Kernel",
         "sidebar_label": "Phase Kernel"
+      },
+      "privacy-policy": {
+        "title": "Privacy policy",
+        "sidebar_label": "Privacy policy"
       },
       "product-architecture": {
         "title": "Product Architecture",
@@ -133,9 +156,33 @@
         "title": "Introduction to Projects in KTern.AI",
         "sidebar_label": "Introduction to Projects in KTern.AI"
       },
+      "release-notes": {
+        "title": "Product Release Notes",
+        "sidebar_label": "Release Notes"
+      },
       "sap-activate-overview": {
         "title": "Overview of the SAP Activate Methodology",
         "sidebar_label": "Overview of the SAP Activate Methodology"
+      },
+      "sap-transformations-saasified": {
+        "title": "SAP Transformations SaaSified",
+        "sidebar_label": "SAP Transformations SaaSified"
+      },
+      "secure-cloud-data-store": {
+        "title": "Data Store in Secure Cloud Platform",
+        "sidebar_label": "Data Store Architecture"
+      },
+      "secure-rfc-communication": {
+        "title": "RFC Communication",
+        "sidebar_label": "RFC Communication"
+      },
+      "security-compliance": {
+        "title": "Security Compliance",
+        "sidebar_label": "Security Compliance"
+      },
+      "security-policy": {
+        "title": "Security policy",
+        "sidebar_label": "Security policy"
       },
       "sign-offs": {
         "title": "Signoffs",
@@ -144,6 +191,10 @@
       "terminology": {
         "title": "Terminology",
         "sidebar_label": "Terminology"
+      },
+      "terms-of-service": {
+        "title": "Terms of Service",
+        "sidebar_label": "Terms of Service"
       },
       "test-case-wizard": {
         "title": "Test Case Wizard",
@@ -205,7 +256,9 @@
       "Digital Projects": "Digital Projects",
       "Digital Labs": "Digital Labs",
       "Digital Maps": "Digital Maps",
-      "Digital Process": "Digital Process"
+      "Digital Process": "Digital Process",
+      "Product Updates": "Product Updates",
+      "Trust Center": "Trust Center"
     }
   },
   "pages-strings": {
