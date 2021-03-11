@@ -93,6 +93,8 @@ const siteConfig = {
 	algolia: {
 		apiKey: '662c2515081384812b8d5658a0a0a6ad',
 		indexName: 'ktern',
+		inputSelector: '### REPLACE ME ####',
+		debug: true, // Set debug to true if you want to inspect the dropdown
 	},
 
 	// For sites with a sizable amount of content, set collapsible to true.

@@ -6,7 +6,7 @@ sidebar_label: Business Process Assessment
 
 Without a proper understanding of the landscape and the knowledge of how each of the processes is getting affected, it is literally impossible to build a proper digital transformation plan. That is why KTern performs the Business Process Assessment.
 
-### Process Profiler
+## Process Profiler
 
 KTern performs a materiality analysis of all the Functional Modules or the Lines of Business (LoBs) present in the system and finds out how they have been configured in the existing system
 
@@ -16,13 +16,13 @@ This will help you to find out the heavily used modules and the rarely used modu
 
 ![](https://storage.googleapis.com/ktern-docs-files/bpa-2.png)
 
-### Enterprise Structure Mining
+## Enterprise Structure Mining
 
 In most SAP S/4HANA assessments, as the first step, organizations aim to find out the enterprise structure in SAP and drill down the hierarchy of each functional module. They find out answers to questions like - What is the type of the system? What is the orientation of the SAP system? How and who uses the system? What is the most effectively used process? How many company codes are there in the system? What are the most effectively used sales organizations / purchase organizations? And much more.
 
 KTern’s Enterprise Structure Mining – Sales documents feature drills down the various organizational units. It drills down from company codes, sales organizations, distribution channels, plants and all the way up to the sales documents generated. In this way, KTern provides a clear hierarchy and evidently maps the organizational structure. Similarly, KTern also performs the same for purchase documents, billing and order documents as well.
 
-#### Enterprise Structure in SD
+### Enterprise Structure in SD
 
 Each module in SAP has its own enterprise structure. An Enterprise Structure in SAP is nothing but the framework or structure according to which the whole business runs. And every organization has or at least should have some structure. There are several organizational units within an enterprise structure.
 
@@ -60,7 +60,7 @@ Another important feature of KTern’s Enterprise Structure Mining is that you c
 
 KTern also provides the option of downloading this report. In addition, you can also post it in the forum, assign stakeholders and collaborate. You can upload the files in KTern and subsequently use it any other stage of the system conversion process. Thus, KTern provides a platform to join forces and work together in determining the relevant enterprise structures in SAP and plan the path to S/4HANA.
 
-#### Enterprise Structure in MM
+### Enterprise Structure in MM
 
 Each module in SAP has its own enterprise structure. An Enterprise Structure in SAP is nothing but the framework or structure according to which the whole business runs. And every organization has or at least should have some structure. There are several organizational units within an enterprise structure.
 
@@ -130,19 +130,19 @@ KTern also provides the option of downloading this report. In addition, you can 
 
 One more important use case of this feature is that you that perform a pre-Go-Live check in a greenfield implementation. In a greenfield implementation, the customer usually provides the configuration requirement. The System Integrator then maps the enterprise structure according to the configuration and tests them accordingly. Enterprise Structure Mining feature of KTern can be used to audit the configured landscape. This allows the customer to Go-Live with the system without any apprehensions.
 
-### Complexity Analysis
+## Complexity Analysis
 
 KTern also gives an analysis in terms of the Complexity of the system. It automatically finds out if the parameters like the New G/L, Special Purpose Ledger, Material Ledger, Multi-Currency model, Business Partners etc are active in the connected landscape.
 
 ![](https://storage.googleapis.com/ktern-docs-files/bpa-10.png)
 
-### Simplification Item Check
+## Simplification Item Check
 
 The Simplification List describes the potential adaptation work that is required to convert your SAP ERP system to SAP S/4HANA at a functional level. Simplification list items (for short, Simplification Items) illustrate the business adaptation requirements and effects to custom developments for each function described. For more complex modifications, the Simplification Items provide the relevant guides to support your transformation.
 
 The Simplification Item list is an essential early-stage tool used for planning an SAP S/4HANA Conversion project. Many necessary adaptations can be implemented on the existing SAP ERP source system itself. As a result, you will be able to begin an SAP S/4HANA Conversion Project even before installing the software in the first place. Consequently, the Simplification Item List is an essential source of information to organize crucial project tasks and assign the required resources.
 
-#### Components present in Simplification Item
+### Components present in Simplification Item
 
 A Simplification Item consists of the following elements:
 
@@ -180,7 +180,7 @@ SAP has identified many of the existing core ECC modules/sub-modules/functionali
 **Non-Strategic Functions (no equivalent):**
 The Simplification Items where these "strategic-solutions" have no equivalent in S/4HANA are classified into this category.
 
-### Business Function Analysis
+## Business Function Analysis
 
 SAP provides new features and enhancements for the existing SAP installations in self-contained units called business functions. You can use them for your various business processes. You can either switch on or switch off a business function. However, you cannot undo the activation of a business function.
 

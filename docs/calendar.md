@@ -8,7 +8,7 @@ The Calendar provides a view of all your tasks, issues and test cases and their 
 
 In addition, you can also create Events within KTern itself. You can link these events to a particular task or work package, invite participants and set up recurring meetings. You can also create meeting notes and assign CTAs from within the event. This eliminates the need for disparate mail threads, zoom calls and Microsoft meetings.
 
-### Viewing the Project Calendar
+## Viewing the Project Calendar
 
 To view the Project Calendar, perform the following steps:
 
