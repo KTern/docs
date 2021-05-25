@@ -4,9 +4,11 @@ title: Introduction to KTern.AI
 sidebar_label: Introduction to KTern.AI
 ---
 
-![KTern.AI Logo](https://help.ktern.com/img/favicon.ico)
+<!-- ![KTern.AI Logo](https://help.ktern.com/img/favicon.ico) -->
 
-### KTern.AI – A Cyborg that takes care of your Digital Transformation.
+### KTern.AI – A Cyborg that takes care of your Digital Transformation
+
+![KTern.AI Architecture](https://storage.googleapis.com/ktern-public-files/product-documentation/sap-enterprise.png)
 
 KTern.AI is a **DXaaS (Digital Transformation as a Service)** suite built with fundamental rethinking of business models and enterprise operations that will help find new ways to deliver value, generate revenue, and improve efficiency to automate Digital Transformations.
 

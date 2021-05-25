@@ -10,9 +10,19 @@ The workbook is a view similar to excel sheet where all the tasks are listed wit
 
 In addition, you can also create milestones for phase closures and sign-offs within this section. A milestone can be a billable or a non-billable milestone.
 
-![](https://storage.googleapis.com/ktern-docs-files/timeline-1.png)
+## Update Project Plan
 
-### Simulation
+To update the project plan, there are 2 options:
+
+1. Timeline - Simulation
+2. Timeline - Workbook
+
+## Simulation
+
+Visit the “Timeline – Simulation” using the following menu option: “Project Hub -> Timeline ->
+Simulation”.
+
+![](https://storage.googleapis.com/ktern-docs-files/timeline-1.png)
 
 The Planner allows you to simulate your project tasks by modifying the duration and start dates. Based on the Project Calendar, KTern will automatically simulate your project
 
@@ -42,11 +52,20 @@ The Planner allows you to simulate your project tasks by modifying the duration 
 
    ![](https://storage.googleapis.com/ktern-docs-files/timeline-2.png)
 
-### Workbook
+## Workbook
 
 You can edit the Timeline using Workbook view also. The user can edit the plan as if the plan is presented in Spreadsheet view.
 
+Visit the “Timeline – Workbook” using the following menu option: “Project Hub -> Timeline ->
+Workbook”.
+
 The Workbook allows you to add / edit / remove tasks just like in an excel.
+
+Add -> Insert a new row and add the necessary item in the project plan.
+
+Update -> Click on the data cell to update the corresponding data.
+
+Delete -> Delete the existing row to remove the corresponding item from the project plan.
 
 ![](https://storage.googleapis.com/ktern-docs-files/timeline-3.png)
 

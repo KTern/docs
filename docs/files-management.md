@@ -14,7 +14,14 @@ The document repository contains:
 3. Meeting files auto-manager
 4. Charter files auto-manager
 
-### Working with Files Management
+## Working with Files Management
+
+KTern provides a wide variety of options for the user to manage files in the project
+
+1. Project Hub -> Files
+2. Work item drawer
+
+## Project Hub - Files
 
 1. Click on ‘Project Hub’ menu in the sidebar. Under Project Hub, select ‘Files’ option.
 2. You will be redirected to Files page.
@@ -55,3 +62,20 @@ The document repository contains:
 ![](https://storage.googleapis.com/ktern-docs-files/files-8.png)
 
 ![](https://storage.googleapis.com/ktern-docs-files/files-9.png)
+
+## Work Item Drawer
+
+### View files
+
+1. Click on the (i) icon to open the work item drawer. Let us consider an example of viewing the files
+   associated with a task
+
+   ![](https://storage.googleapis.com/ktern-public-files/product-documentation/my-work-items.png)
+
+2. Click on the “Files” section to view the files associated with the task
+
+   ![](https://storage.googleapis.com/ktern-public-files/product-documentation/my-work-items-1.png)
+
+3. KTern displays the list of files attached to the selected work item
+
+   ![](https://storage.googleapis.com/ktern-public-files/product-documentation/my-work-items-2.png)

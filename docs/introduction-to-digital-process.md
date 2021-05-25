@@ -4,6 +4,8 @@ title: Introduction to Digital Process
 sidebar_label: Introduction to Digital Process
 ---
 
+## Overview
+
 The major features of KTern’s Digital Process are
 
 1. Streamlined tracking and monitoring of Business Process activation, implementation, and orchestration of the enterprise operations

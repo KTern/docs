@@ -40,7 +40,9 @@ To create a Project Milestone, perform the following steps:
 
 ![](https://storage.googleapis.com/ktern-docs-files/milestone.png)
 
-To edit the milestone, click on the info icon present against each project milestone.
+To edit the milestone, click on the info icon present against each project milestone. KTern displays the milestone info in the drawer. Update the necessary details and click on “Submit” to save the changes
+
+![](https://storage.googleapis.com/ktern-public-files/product-documentation/edit-milestone.png)
 
 ### Deleting the Milestone
 
