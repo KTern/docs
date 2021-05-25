@@ -5,9 +5,21 @@
     "previous": "Previous",
     "tagline": "KTern.AI - Help Documentation",
     "docs": {
+      "add-tasks-in-user-stories": {
+        "title": "Add Tasks in User Stories",
+        "sidebar_label": "Add Tasks in User Stories"
+      },
+      "add-update-process": {
+        "title": "Add/Update Process Items (GSI Workbook)",
+        "sidebar_label": "Add/Update Process Items (GSI Workbook)"
+      },
       "api-security": {
         "title": "API Security",
         "sidebar_label": "API Security"
+      },
+      "authentication": {
+        "title": "Authentication",
+        "sidebar_label": "Authentication"
       },
       "business-process-assessment": {
         "title": "Business Process Assessment",
@@ -136,6 +148,18 @@
         "title": "Privacy policy",
         "sidebar_label": "Privacy policy"
       },
+      "process-dashboard": {
+        "title": "Process Dashboard",
+        "sidebar_label": "Process Dashboard"
+      },
+      "process-modeler": {
+        "title": "Process Modeler",
+        "sidebar_label": "Process Modeler"
+      },
+      "process-reporting": {
+        "title": "Process Reporting",
+        "sidebar_label": "Process Reporting"
+      },
       "product-architecture": {
         "title": "Product Architecture",
         "sidebar_label": "Product Architecture"
@@ -151,6 +175,14 @@
       "project-launchpad": {
         "title": "Project Launchpad",
         "sidebar_label": "Project Launchpad"
+      },
+      "project-process-integration": {
+        "title": "Project Process Integration",
+        "sidebar_label": "Project Process Integration"
+      },
+      "project-progress-tracking": {
+        "title": "Tracking Project Progress",
+        "sidebar_label": "Tracking Project Progress"
       },
       "project": {
         "title": "Introduction to Projects in KTern.AI",
@@ -187,6 +219,14 @@
       "sign-offs": {
         "title": "Signoffs",
         "sidebar_label": "Signoffs"
+      },
+      "sprint-tracker": {
+        "title": "Sprint Tracker",
+        "sidebar_label": "Sprint Tracker"
+      },
+      "sprints-management": {
+        "title": "Sprints Management",
+        "sidebar_label": "Sprints Management"
       },
       "terminology": {
         "title": "Terminology",
@@ -239,6 +279,10 @@
       "user-management": {
         "title": "User Management",
         "sidebar_label": "User Management"
+      },
+      "user-story-management": {
+        "title": "Managing User Stories",
+        "sidebar_label": "Managing User Stories"
       },
       "value-propositions": {
         "title": "Value Propositions",

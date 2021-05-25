@@ -11,6 +11,7 @@
       "secure-cloud-data-store"
     ],
     "Beginner`s Guide": [
+      "authentication",
       "project",
       "create-new-project",
       "connecting-to-sap-system"
@@ -32,7 +33,12 @@
       "files-management",
       "forum",
       "sign-offs",
-      "phase-kernel"
+      "phase-kernel",
+      "user-story-management",
+      "sprints-management",
+      "add-tasks-in-user-stories",
+      "sprint-tracker",
+      "project-progress-tracking"
     ],
     "Digital Labs": [
       "introduction-to-digital-labs",
@@ -57,10 +63,15 @@
     ],
     "Digital Process": [
       "introduction-to-digital-process",
-      "custom-process-profiling-console",
-      "custom-object-remediation",
       "overview-of-process-management",
-      "digital-process-cockpit"
+      "digital-process-cockpit",
+      "add-update-process",
+      "process-modeler",
+      "process-dashboard",
+      "project-process-integration",
+      "process-reporting",
+      "custom-process-profiling-console",
+      "custom-object-remediation"
     ],
     "Product Updates": [
       "ktern-release-management",
