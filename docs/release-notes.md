@@ -7,14 +7,106 @@ sidebar_label: Release Notes
 <details open>
    <summary>
       <span style="color:#9d0102">
+         <b>Ilavenil Release - 2103</b>
+      </span> -
+      28 March, 2021
+   </summary>
+   
+### What's new
+#### 1. Digital Process – Business Process Modeler
+User intuitive, web based tooling enriched BPMN based business process modeler is now available as part of Digital Process for every process variant item.
+
+It comes with the following toolset options –
+
+-  Activate the hand tool
+-  Activate the lasso tool
+-  Activate the create/remove space tool
+-  Activate the global connect tool
+-  Create StartEvent
+-  Create EndEvent
+-  Create Task
+-  Create DataObjectReference
+-  Create DataStoreReference
+-  Create Intermediate/Boundary Event
+-  Create expanded SubProcess
+
+It comes with the following features –
+
+-  Save process flow
+-  Reset process flow
+-  Get recommendations from KTern.AI
+-  Download
+
+![](https://storage.googleapis.com/ktern-public-files/images/ilavenil-2.png)
+
+#### 2. Digital Projects – Signoff Views
+
+The signoff cockpit now comes with a detailed ‘List view’ and ‘Explorer view’ for making decisive approvals and rejections with insightful stats.
+
+#### 3. Digital Projects – Signoff Reports
+
+Quick insightful reports are now available as part of Signoff List View. Reports include –
+
+-  My signoffs
+-  Approved by me
+-  Rejected by me
+-  Pending actions from me
+-  My overdue signoffs
+-  All signoffs
+-  All overdue signoffs
+
+### What’s improved
+
+#### 4. Digital Labs – Test Script and Test Logs Interface
+
+The test scripts and test logs for a test case has now been redefined and enriched with an user intuitive material design for quick outlook. It is represented by a panoramic grid view for each test steps with sequence indicators.
+
+#### 5. Digital Projects – Files
+
+Bug fixes have been made in file upload and handling in file explorer.
+
+</details>
+
+<details close>
+   <summary>
+      <span style="color:#9d0102">
+         <b>Ilavenil Release - 2102</b>
+      </span> -
+      28 February, 2021
+   </summary>
+   
+### What's new
+#### 1. Digital Maps – Business Transformation
+The business transformation insights are now available for all the SAP specified, standard industry verticals
+
+#### 2. Digital Maps – Seamless user experience upon different version and assessment hub transitions
+
+Automated assessment for different S/4HANA on-premise versions, predominantly n and n-1 versions (for instance S/4HANA 2020, S/4HANA 1909) will have improved transitions between versions. This also includes seamless navigation between different assessment hubs, with the last viewed assessment saved for better user experience.
+
+![](https://storage.googleapis.com/ktern-public-files/images/ilavenil-1.png)
+
+### What’s improved
+
+#### 3. Digital Maps – Custom Objects Assessment
+
+Custom object impact analysis on S/4HANA system conversion now includes both the impacted main code object and impacted sub code object (different program types) in the list view of the results with respective impacted line numbers.
+
+</details>
+
+<details close>
+   <summary>
+      <span style="color:#9d0102">
          <b>Pinpani Release - 2101</b>
       </span> -
       18 January, 2021
    </summary>
    
    Happy New Year, everyone… We’re back after the holidays with some cool features and improvements.
+
 ### What's new
+
 #### 1. Interlinking between Workitems and Processes
+
 Oftentimes, the System Integrator would run an SAP S/4HANA project with ACTIVATE methodology and the Custom would have a set of Business Processes that he/she must be map into SAP. With this feature, you can combine your Processes with SAP ACTIVATE methodology. You can holistically view all your Processes being mapped to SAP ACTIVATE in a single screen or dashboard.
 
 Did we use too many jargons there? Okay, in simple terms, here are some examples of what you can do with this new feature.
