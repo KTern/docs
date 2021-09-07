@@ -73,6 +73,10 @@
       "custom-process-profiling-console",
       "custom-object-remediation"
     ],
+    "Product Integrations": [
+      "uipath-ktern-ai",
+      "uipath-integration-scenarios"
+    ],
     "Product Updates": [
       "ktern-release-management",
       "release-notes"

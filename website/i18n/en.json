@@ -276,6 +276,14 @@
         "title": "Timeline",
         "sidebar_label": "Timeline"
       },
+      "uipath-integration-scenarios": {
+        "title": "UIPath Integration Scenarios",
+        "sidebar_label": "UIPath Integration Scenarios"
+      },
+      "uipath-ktern-ai": {
+        "title": "UIPath and KTern.AI",
+        "sidebar_label": "UIPath and KTern.AI"
+      },
       "user-management": {
         "title": "User Management",
         "sidebar_label": "User Management"
@@ -301,6 +309,7 @@
       "Digital Labs": "Digital Labs",
       "Digital Maps": "Digital Maps",
       "Digital Process": "Digital Process",
+      "Product Integrations": "Product Integrations",
       "Product Updates": "Product Updates",
       "Trust Center": "Trust Center"
     }
