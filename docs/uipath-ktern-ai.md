@@ -1,5 +1,5 @@
 ---
-id: UiPath-ktern-ai
+id: uipath-ktern-ai
 title: UiPath and KTern.AI
 sidebar_label: UiPath and KTern.AI
 ---

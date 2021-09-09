@@ -1,5 +1,5 @@
 ---
-id: UiPath-integration-scenarios
+id: uipath-integration-scenarios
 title: UiPath Integration Scenarios
 sidebar_label: UiPath Integration Scenarios
 ---
