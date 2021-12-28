@@ -1,1512 +1,1965 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://ktern.com/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-maps</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-projects</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-process</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-labs</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-mines</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/pricing</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-projects/digital-workspace</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-projects/sap-activate-cockpit</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-projects/social-collaboration</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-projects/signoffs-workflows</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-projects/project-reporting</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/features</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/aeri-autonomous-enterprise-release-impact/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinars</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/trust-center</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/news</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/partners</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/consulting-partners</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/technology-partners</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/partner-register</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/about-company</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/contact</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/release-notes</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/success-story/readiness-assessment-before-sap-s4hana-cloud-implementation</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/success-story/sap-custom-code-analysis-ktern-digital-maps</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/trust-center/terms</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/trust-center/privacy</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/trust-center/gdpr</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/trust-center/security</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-maps/business-process-mining</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-maps/landscape-assessment</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-maps/custom-code-analysis</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-maps/transformation-insights</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-maps/timeline-effort-estimation</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/ebook/definitive-guide-sap-s4hana-assessment</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/all-about-sap-s4hana-assessment/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/success-story/how-home-d%C3%A9cor-manufacturer-built-sap-s4hana-business-case</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-project-management-guide-sap-project-managers/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/ebook/manage-digital-transformation-effectively</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/success-story/how-e-services-provider-uses-ktern-sap-s4hana-conversion</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-process/process-orchestration</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-process/sap-scope-item-cockpit</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-process/process-modelling</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-process/process-dashboards</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-process/custom-process-adaptation</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/ebook/sap-custom-code-migration-guide</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-custom-code-remediation/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/success-story/how-american-high-tech-manufacturer-use-ktern-data-validation-s4hana-conversion</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-labs/test-repository</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-labs/test-scripts-evidences-defects</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-labs/test-scenario-recommendations</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-labs/uat-signoffs</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/ebook/know-about-sap-s4hana-test-automation</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/ebook/sap-s4hana-testing-guide</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/auto-execute-test-cases/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-mines/change-impact-mining</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-mines/test-fit-gaps</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-mines/process-impact</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-mines/change-impact-orchestration</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-mines/release-impact-analytics</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/continuous-monitoring-continuous-improvement-business-productivity-s4-hana-implementation/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/democratizing-sap-digital-transformation-as-a-service-dxaas</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/digital-labs/test-reporting</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-testers-guide/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/move-from-digital-transformation-to-dxaas/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/dxaas-platform-benefits/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/impact-analysis-before-sap-s4hana-conversion/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/tag/digital-labs/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/tag/digital-maps/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/tag/digital-mines/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/tag/digital-process/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/tag/digital-projects/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/tag/dxaas/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/video/how-to-go-about-handling-an-sap-s4hana-migration-project</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/video/challenges-during-sap-testing</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/ebook/unlocking-digital-transformation-guide</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/video/how-sap-testing-would-look-like-in-future-explained</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/success-story/readiness-assessment-sap-landscape-consolidation-building-products-manufacturer</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/video/key-considerations-before-moving-from-sap-ecc-to-s4hana</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/success-story/s4hana-readiness-assessment-electrical-electronics-manufacturer</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/video/the-role-of-sum-tool-in-sap-s4hana-migration</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/video/why-do-sap-transformations-fail</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/video/major-activities-in-the-discover-phase-of-the-activate-methodology</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/video/typical-transition-paths-to-sap-s4hana</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/video/driving-your-entire-sap-project-using-ktern-ai</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/video/common-challenges-and-lessons-learnt-during-sap-s4hana-migration</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/success-story/how-american-technology-provider-uses-ktern-digital-maps-sap-s4hana-readiness-assessment</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/video/top-10-things-consider-sap-s4hana-system-conversion</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/video/why-is-the-custom-code-check-very-important-in-a-s4hana-transition?</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/video/detailed-walkthrough-of-sap-s4hana-assessment-results</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/success-story/how-american-automotive-components-manufacturer-uses-ktern-digital-maps</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/success-story/how-italian-storage-objects-manufacturer-uses-ktern-digital-maps</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/video/sap-testing-in-the-run-mode-for-continuous-improvement</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/success-story/readiness-assessment-before-sap-s4hana-system-conversion</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/video/journey-from-sap-r-to-sap-s4hana</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/video/ktern-reimagined-approach-to-sap-testing</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/cognitive-digital-workplace-sap-customers-partners</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/transforming-s4hana-upgrade-journey</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/build-data-driven-sap-s4hana-business-case</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/ktern-accelerated-s4hana-assessment</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/reimagining-sap-project-management</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/automated-testing-for-sap-s4hana-conversion</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/managing-digital-disruptions-with-sap-s4hana</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/automated-custom-code-remediation-sap-s4hana-migration</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/realtime-financial-closures-sap-s4hana</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/technical-walkthrough-sap-s4hana-system-conversion</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/reimagining-sap-testing</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/simplify-logistics-sap-s4hana-business-partners</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/decoding-sap-s4hana-system-conversion</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/ktern-best-product-sap-s4hana-conversion</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/sap-s4hana-readiness</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/reimagining-sap-s4hana-conversion</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/plan-sap-s4hana-migration</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/automated-test-management-sap-s4hana-migration</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/webinar/managing-sap-s4hana-migration-project</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/generic-to-sap-native-project-management-tool/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-testing-roadblock-s4hana-move/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-s4hana-greenfield-vs-brownfield-implementation/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/reasons-sap-transformation-initiatives-fail/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/page/2/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/trust-center/community-guidelines</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/trust-center/data-processing</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/trust-center/data-hosting</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/trust-center/cookies</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/trust-center/accessibility</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/trust-center/releases</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/trust-center/support</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/trust-center/sla</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/trust-center/partner-terms</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/trust-center/eula</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/trust-center/academic-alliance-terms</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/news/ktern-released-in-sap-app-center</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/news/ktern-metisoft-strategic-partnership</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/news/ktern-techedge-strategic-partnership</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/news/ktern-albilad-arabia-sap-partner-packaged-solution-s4hana-conversion</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/news/ktern-albilad-arabia-sap-partner-packaged-solution-s4hana-assessment</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/news/ktern-kaar-tech-sap-partner-packaged-solution-s4hana-conversion</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/news/ktern-kaar-tech-sap-partner-packaged-solution-s4hana-assessment</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/ktern-ai</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/ktern-ai-for-sap-digital-transformations</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/value-propositions</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/five-streams-for-ktern-ai</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/features</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/product-architecture</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/sap-transformations-saasified</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/secure-cloud-data-store</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/authentication</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/project</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/create-new-project</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/connecting-to-sap-system</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/introduction-to-digital-projects</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/sap-activate-overview</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/my-workspace</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/project-launchpad</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/create-task</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/create-issue</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/project-control-center</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/project-dashboard</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/timeline</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/milestones</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/user-management</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/calendar</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/events-management</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/files-management</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/forum</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/sign-offs</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/phase-kernel</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/user-story-management</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/sprints-management</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/add-tasks-in-user-stories</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/sprint-tracker</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/project-progress-tracking</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/introduction-to-digital-labs</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/terminology</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/test-cockpit</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/test-plan</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/test-scenario</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/working-with-test-cases</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/test-case-wizard</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/test-scripts</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/test-execution-log</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/test-dashboard</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/test-signoff</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/introduction-to-digital-maps</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/landscape-assessment</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/business-process-assessment</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/custom-objects-assessment</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/business-transformation-assessment</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/timeline-assessment</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/introduction-to-digital-process</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/overview-of-process-management</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/digital-process-cockpit</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/add-update-process</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/process-modeler</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/process-dashboard</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/project-process-integration</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/process-reporting</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/custom-process-profiling-console</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/custom-object-remediation</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/uipath-ktern-ai</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/uipath-integration-scenarios</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/ktern-release-management</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/overview</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/secure-rfc-communication</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/security-policy</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/api-security</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/terms-of-service</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/privacy-policy</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/gdpr-compliance</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/docs/security-compliance</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-business-process-assessment-before-s4hana-move/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-s4hana-upgrade-guide/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-custom-code-migration-guide/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/custom-objects-assessment-before-s4hana-move/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-s4hana-change-management/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/requirements-sap-testing-solution/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/autonomous-test-console-digital-labs/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/key-components-sap-dxaas-automation-platform/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-landscape-assessment-before-s4hana-move/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-testing-challenges/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/future-of-sap-testing/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/five-sap-testing-tools-make-testers-life-easier/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-s4hana-testing-beginners-guide/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/tag/digital-labs/page/2/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/business-transformation-assessment/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/questions-before-sap-ecc-to-s4hana-move/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/ktern-analyze-license-impact-before-s4hana-move/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/tag/digital-maps/page/2/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/alleviate-custom-code-migration-challenges/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/importance-custom-code-adaptation-s4hana-conversion/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/reimagine-sap-project-management-digital-projects/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-activate-s4hana-conversion/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/project-manager-role-sap-s4hana-conversion/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/what-is-sap-digital-transformation/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/what-is-digital-transformation/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/introduction-to-ktern-ai-five-streams/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/considerations-before-sap-s4hana-selective-data-transition/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/top-three-innovation-areas-sap-s4hana/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/tag/dxaas/page/2/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources?type=Video</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/resources/video/why-is-the-custom-code-check-very-important-in-a-s4hana-transition</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/page/3/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/five-steps-simplify-sap-functional-testing/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/manage-sap-testing-from-one-place/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/ktern-reimagines-s4hana-testing-approach/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-testing-recommendations-by-ktern-ai/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/five-steps-sap-test-automation/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-s4hana-test-lifecycle/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-s4hana-testing-automation/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-s4hana-testing/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/automated-roadmap-generation-sap-s4hana-system-conversion/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/relevant-sap-fiori-apps-before-s4hana-transformation/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/estimate-effort-required-sap-s4hana-project/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-bw-extractors-importance-before-sap-s4hana-move/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/analyze-monitor-sap-transport-requests-before-s4hana-move/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-custom-code-impact-analysis/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/perform-sap-data-archiving-analysis/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/analyze-sap-custom-objects/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/enterprise-structure-sap-materials-management/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/tag/digital-maps/page/3/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-s-4hana-system-conversion-using-ktern-a-case-study/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-ecc-vs-s4hana/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/five-reasons-skip-suite-on-hana/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/s4hana-migration-risks/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/simplify-sap-s4hana-conversion/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/enterprise-paths-to-digital-transformation/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/enterprises-digitization-journey/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/why-ecc-customers-embrace-sap-s4hana-finance/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/digitization-for-enterprises/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/tag/dxaas/page/3/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/page/4/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/orders-hierarchy-generation-sap-system/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/billing-hierarchy-generation-sap-system/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/why-addon-compatibility-check-before-s4hana-move/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-business-functions-before-s4hana-move/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/automate-s4hana-simplification-item-check/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/enterprise-structure-sap-sales-distribution/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-readiness-assessment-guide-before-s4hana-conversion/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/hana-db-sizing-considerations/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/license-impact-before-s4hana-move/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/tag/digital-maps/page/4/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-s4hana-migration-challenges-solutions/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/s4hana-right-choice-business-core/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/s4hana-conversion-application-rationalization/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/migrate-s4hana-finance-make-cfo-happy/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/migrate-ecc-to-sap-s4hana-move/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/s4hana-conversion-challenges/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/digital-transformation-as-service-dxaas/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/four-sap-s4hana-conversion-tools/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/page/5/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/sap-ecc-to-s4hana-conversion-considerations/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/effort-estimation-101-43-factors-you-must-know-to-estimate-the-right-effort-for-any-sap-s-4hana-migration-project/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/page/6/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/page/7/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.21</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/page/8/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.17</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/page/9/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.13</priority>
-</url>
-<url>
-  <loc>https://ktern.com/article/page/10/</loc>
-  <lastmod>2021-12-13T17:21:00+00:00</lastmod>
-  <priority>0.11</priority>
-</url>
-
-
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+   <url>
+      <loc>https://ktern.com/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/trust-center/security</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/trust-center/gdpr</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/trust-center/privacy</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/trust-center/terms</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/success-story/sap-custom-code-analysis-ktern-digital-maps</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/success-story/readiness-assessment-before-sap-s4hana-cloud-implementation</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-process</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-labs</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/partners</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/consulting-partners</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/contact</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/partner-register</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-mines</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/technology-partners</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/about-company</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-projects/digital-workspace</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/pricing</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-projects/social-collaboration</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-projects/sap-activate-cockpit</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-projects/signoffs-workflows</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-projects/project-reporting</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/features</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-mines/change-impact-mining</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-maps</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-projects</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinars</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/trust-center</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/news</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/decoding-sap-s4hana-system-conversion</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/news/ktern-kaar-tech-sap-partner-packaged-solution-s4hana-assessment</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/simplify-logistics-sap-s4hana-business-partners</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/news/ktern-albilad-arabia-sap-partner-packaged-solution-s4hana-assessment</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/news/ktern-kaar-tech-sap-partner-packaged-solution-s4hana-conversion</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-process/sap-scope-item-cockpit</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/author/dhanush/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/generic-to-sap-native-project-management-tool/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-testing-roadblock-s4hana-move/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-project-management-guide-sap-project-managers/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/404</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/news/ktern-released-in-sap-app-center</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s4hana-greenfield-vs-brownfield-implementation/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/author/kirthan/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/reasons-sap-transformation-initiatives-fail/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/news/ktern-metisoft-strategic-partnership</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/news/ktern-techedge-strategic-partnership</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-maps/business-process-mining</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-maps/landscape-assessment</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-maps/transformation-insights</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-maps/timeline-effort-estimation</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/transforming-s4hana-upgrade-journey</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-process/process-orchestration</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-maps/custom-code-analysis</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/reimagining-sap-s4hana-conversion</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/reimagining-sap-testing</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/cognitive-digital-workplace-sap-customers-partners</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/reimagining-sap-project-management</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/ebook/definitive-guide-sap-s4hana-assessment</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/build-data-driven-sap-s4hana-business-case</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/managing-sap-s4hana-migration-project</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/all-about-sap-s4hana-assessment/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/automated-test-management-sap-s4hana-migration</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/automated-custom-code-remediation-sap-s4hana-migration</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-process/process-modelling</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/success-story/how-home-décor-manufacturer-built-sap-s4hana-business-case</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/automated-testing-for-sap-s4hana-conversion</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/ktern-accelerated-s4hana-assessment</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/plan-sap-s4hana-migration</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/sap-s4hana-readiness</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-process/process-dashboards</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/video/how-to-go-about-handling-an-sap-s4hana-migration-project</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/ktern-best-product-sap-s4hana-conversion</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/managing-digital-disruptions-with-sap-s4hana</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/video/top-factors-that-influence-a-customer&apos;s-decision-to-sap-s4hana</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/realtime-financial-closures-sap-s4hana</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/technical-walkthrough-sap-s4hana-system-conversion</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-process/custom-process-adaptation</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/video/challenges-during-sap-testing</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/trust-center/community-guidelines</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/ebook/unlocking-digital-transformation-guide</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/trust-center/data-processing</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/trust-center/data-hosting</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/video/how-sap-testing-would-look-like-in-future-explained</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/trust-center/cookies</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/ebook/sap-custom-code-migration-guide</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/trust-center/accessibility</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/success-story/readiness-assessment-sap-landscape-consolidation-building-products-manufacturer</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/trust-center/support</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/trust-center/releases</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-custom-code-remediation/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/video/key-considerations-before-moving-from-sap-ecc-to-s4hana</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/trust-center/sla</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/trust-center/partner-terms</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/success-story/s4hana-readiness-assessment-electrical-electronics-manufacturer</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/trust-center/eula</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/trust-center/academic-alliance-terms</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/success-story/how-american-high-tech-manufacturer-use-ktern-data-validation-s4hana-conversion</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/video/the-role-of-sum-tool-in-sap-s4hana-migration</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-labs/test-repository</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/video/major-activities-in-the-discover-phase-of-the-activate-methodology</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/video/why-do-sap-transformations-fail</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-labs/test-scripts-evidences-defects</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/video/typical-transition-paths-to-sap-s4hana</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/video/driving-your-entire-sap-project-using-ktern-ai</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/video/common-challenges-and-lessons-learnt-during-sap-s4hana-migration</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/news/ktern-albilad-arabia-sap-partner-packaged-solution-s4hana-conversion</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/success-story/how-american-technology-provider-uses-ktern-digital-maps-sap-s4hana-readiness-assessment</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-labs/test-scenario-recommendations</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/video/top-10-things-consider-sap-s4hana-system-conversion</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/video/why-is-the-custom-code-check-very-important-in-a-s4hana-transition</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/video/detailed-walkthrough-of-sap-s4hana-assessment-results</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-labs/uat-signoffs</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/success-story/how-american-automotive-components-manufacturer-uses-ktern-digital-maps</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/ebook/know-about-sap-s4hana-test-automation</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/success-story/how-italian-storage-objects-manufacturer-uses-ktern-digital-maps</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/whitepaper/get-started-with-move-ecc-to-s4hana</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/video/sap-testing-in-the-run-mode-for-continuous-improvement</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/ebook/sap-s4hana-testing-guide</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/video/journey-from-sap-r-to-sap-s4hana</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/success-story/readiness-assessment-before-sap-s4hana-system-conversion</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/auto-execute-test-cases/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/video/ktern-reimagined-approach-to-sap-testing</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/whitepaper/organizational-change-management-sap-s4hana</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/page/2/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/ebook/manage-digital-transformation-effectively</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-mines/test-fit-gaps</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources/success-story/how-e-services-provider-uses-ktern-sap-s4hana-conversion</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-testers-guide/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-mines/process-impact</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/move-from-digital-transformation-to-dxaas/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-mines/change-impact-orchestration</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/dxaas-platform-benefits/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/impact-analysis-before-sap-s4hana-conversion/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/tag/digital-labs/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/tag/digital-maps/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-labs/test-reporting</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/tag/digital-mines/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/tag/digital-process/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/digital-mines/release-impact-analytics</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/tag/digital-projects/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/tag/dxaas/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/alleviate-custom-code-migration-challenges/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/webinar/democratizing-sap-digital-transformation-as-a-service-dxaas</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/top-three-innovation-areas-sap-s4hana/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/considerations-before-sap-s4hana-selective-data-transition/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/introduction-to-ktern-ai-five-streams/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/author/dhanush/page/2/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/author/kirthan/page/2/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/importance-custom-code-adaptation-s4hana-conversion/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-project-management-guide-sap-project-managers/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s4hana-greenfield-vs-brownfield-implementation/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/tag/dxaas/page/2/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/questions-before-sap-ecc-to-s4hana-move/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/business-transformation-assessment/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/reasons-sap-transformation-initiatives-fail/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/ktern-analyze-license-impact-before-s4hana-move/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/aeri-autonomous-enterprise-release-impact/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-business-process-assessment-before-s4hana-move/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-testing-challenges/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/what-is-sap-digital-transformation/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-landscape-assessment-before-s4hana-move/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/what-is-digital-transformation/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s4hana-upgrade-guide/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/five-sap-testing-tools-make-testers-life-easier/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/future-of-sap-testing/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/resources?type=Video</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s4hana-testing-beginners-guide/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/continuous-monitoring-continuous-improvement-business-productivity-s4-hana-implementation/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/impact-analysis-before-sap-s4hana-conversion/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/key-components-sap-dxaas-automation-platform/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/dxaas-platform-benefits/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/move-from-digital-transformation-to-dxaas/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/generic-to-sap-native-project-management-tool/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/reimagine-sap-project-management-digital-projects/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-testers-guide/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-activate-s4hana-conversion/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/author/akilesh/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/project-manager-role-sap-s4hana-conversion/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/author/edsonfrainlar/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-testing-roadblock-s4hana-move/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/requirements-sap-testing-solution/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/autonomous-test-console-digital-labs/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/all-about-sap-s4hana-assessment/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s4hana-change-management/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-custom-code-migration-guide/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/tag/digital-maps/page/2/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/custom-objects-assessment-before-s4hana-move/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/auto-execute-test-cases/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-custom-code-remediation/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/tag/digital-labs/page/2/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/page/3/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/five-steps-to-simplify-sap-functional-testing/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/tag/dxaas/page/3/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/page/4/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/alleviate-custom-code-migration-challenges/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/introduction-to-ktern-ai-five-streams/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/top-three-innovation-areas-sap-s4hana/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-testing-recommendations-by-ktern-ai/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/ktern-reimagines-s4hana-testing-approach/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/manage-sap-testing-from-one-place/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/importance-custom-code-adaptation-s4hana-conversion/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s4hana-testing/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/considerations-before-sap-s4hana-selective-data-transition/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/author/kirthan/page/3/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/simplify-sap-s4hana-conversion/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/aeri-autonomous-enterprise-release-impact/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-custom-code-migration-guide/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/five-steps-sap-test-automation/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/key-components-sap-dxaas-automation-platform/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-business-process-assessment-before-s4hana-move/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/future-of-sap-testing/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/continuous-monitoring-continuous-improvement-business-productivity-s4-hana-implementation/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-ecc-vs-s4-hana/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/five-reasons-skip-suite-on-hana/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/why-ecc-customers-embrace-sap-s4hana-finance/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/digitization-for-enterprises/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/what-is-sap-digital-transformation/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-testing-challenges/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-landscape-assessment-before-s4hana-move/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/s4hana-migration-risks/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/what-is-digital-transformation/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s4hana-upgrade-guide/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/ktern-analyze-license-impact-before-s4hana-move/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/author/vignesh-barani-ktern-sap-s4hana/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/business-transformation-assessment/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/questions-before-sap-ecc-to-s4hana-move/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/enterprises-digitization-journey/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s4hana-testing-beginners-guide/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s-4hana-system-conversion-using-ktern-a-case-study/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/enterprise-paths-to-digital-transformation/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/five-sap-testing-tools-make-testers-life-easier/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/automated-roadmap-generation-sap-s4hana-system-conversion/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/autonomous-test-console-digital-labs/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s4hana-testing-automation/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s4hana-test-lifecycle/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/43-factors-effort-estimation-s4-hana-conversion-project/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/migrate-ecc-to-sap-s4hana-move/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/reimagine-sap-project-management-digital-projects/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-activate-s4hana-conversion/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/project-manager-role-sap-s4hana-conversion/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/requirements-sap-testing-solution/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/relevant-sap-fiori-apps-before-s4hana-transformation/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/tag/digital-maps/page/3/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s4hana-change-management/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/custom-objects-assessment-before-s4hana-move/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/estimate-effort-required-sap-s4hana-project/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/importance-analyzing-sap-bw-extractors-before-moving-s4-hana/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/perform-sap-data-archiving-analysis/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/enterprise-structure-sap-materials-management/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/analyze-sap-custom-objects/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-custom-code-impact-analysis/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/why-analyze-monitor-sap-transport-requests-before-s4-hana/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/why-analyze-monitor-sap-transport-requests-before-s4-hana/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/enterprise-structure-sap-materials-management/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/analyze-sap-custom-objects/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/perform-sap-data-archiving-analysis/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/importance-analyzing-sap-bw-extractors-before-moving-s4-hana/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-readiness-assessment-guide-before-s4hana-conversion/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/enterprise-structure-sap-sales-distribution/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/automate-s4hana-simplification-item-check/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-custom-code-impact-analysis/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/four-sap-s4hana-conversion-tools-for-consultants-and-project-managers/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/page/5/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-business-functions-before-s4hana-move/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s4hana-migration-challenges-solutions/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/five-steps-to-simplify-sap-functional-testing/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/migrate-s4hana-finance-make-cfo-happy/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/digital-transformation-as-a-service-dxaas/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/s4hana-conversion-challenges/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/s4hana-conversion-application-rationalization/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/s4hana-right-choice-business-core/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/manage-sap-testing-from-one-place/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/simplify-sap-s4hana-conversion/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/orders-hierarchy-generation-sap-system/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/billing-hierarchy-generation-sap-system/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/author/kirthan/page/4/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/why-addon-compatibility-check-before-s4hana-move/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/ktern-reimagines-s4hana-testing-approach/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/five-steps-sap-test-automation/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/five-reasons-skip-suite-on-hana/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/s4hana-migration-risks/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-ecc-vs-s4-hana/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/why-ecc-customers-embrace-sap-s4hana-finance/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/enterprise-paths-to-digital-transformation/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/digitization-for-enterprises/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s-4hana-system-conversion-using-ktern-a-case-study/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/enterprises-digitization-journey/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/license-impact-before-s4hana-move/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/tag/digital-maps/page/4/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s4hana-test-lifecycle/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s4hana-testing/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-testing-recommendations-by-ktern-ai/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/automated-roadmap-generation-sap-s4hana-system-conversion/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/43-factors-effort-estimation-s4-hana-conversion-project/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/migrate-ecc-to-sap-s4hana-move/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s4hana-testing-automation/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/relevant-sap-fiori-apps-before-s4hana-transformation/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/estimate-effort-required-sap-s4hana-project/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/hana-db-sizing-considerations/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/why-addon-compatibility-check-before-s4hana-move/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/author/kirthan/page/5/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/hana-db-sizing-considerations/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-s4hana-migration-challenges-solutions/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/page/6/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/digital-transformation-as-a-service-dxaas/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/four-sap-s4hana-conversion-tools-for-consultants-and-project-managers/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/license-impact-before-s4hana-move/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/automate-s4hana-simplification-item-check/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/enterprise-structure-sap-sales-distribution/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-readiness-assessment-guide-before-s4hana-conversion/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-business-functions-before-s4hana-move/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/s4hana-conversion-challenges/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/migrate-s4hana-finance-make-cfo-happy/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-ecc-to-s4hana-conversion-considerations/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/orders-hierarchy-generation-sap-system/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/s4hana-right-choice-business-core/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/s4hana-conversion-application-rationalization/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/billing-hierarchy-generation-sap-system/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/sap-ecc-to-s4hana-conversion-considerations/amp/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/author/kirthan/page/6/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/page/7/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/author/kirthan/page/7/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/page/8/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/page/9/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://ktern.com/article/page/10/</loc>
+      <lastmod>2021-12-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
 </urlset>
